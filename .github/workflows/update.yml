@@ -20,7 +20,9 @@ jobs:
         with:
           java-version: 16
       - name: Build with Gradle
-        run: gradlew checkUpdates
+        run:
+          ./chmod +x gradlew
+          ./gradlew checkUpdated
       - name: Push changes
         run: |
           git config --global user.email "cli@github.com"
