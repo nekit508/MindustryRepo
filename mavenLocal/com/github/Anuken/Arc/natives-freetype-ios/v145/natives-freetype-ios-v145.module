@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken",
+    "module": "natives-freetype-ios",
+    "version": "v145",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-freetype-ios-v145.jar",
+          "url": "natives-freetype-ios-v145.jar",
+          "size": 2203198,
+          "sha512": "7d439c1fc5e02e09a491a2533ffaf76d4ce81f946830b4c1304d482b80b9b4cd7a878ca35535d46019b7e1210876846d97f704b3bc20d98e4c0708d157094197",
+          "sha256": "7f373b43bbf7e520cb155f348ee01ae75f5e5ab4bbcc53f7016816419b74b2f0",
+          "sha1": "e6efaa9614c32a3ed3a15ca6fc47559f8d8c8c1e",
+          "md5": "81fe96b4dde977adfddcd2cd85be2126"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-freetype-ios-v145.jar",
+          "url": "natives-freetype-ios-v145.jar",
+          "size": 2203198,
+          "sha512": "7d439c1fc5e02e09a491a2533ffaf76d4ce81f946830b4c1304d482b80b9b4cd7a878ca35535d46019b7e1210876846d97f704b3bc20d98e4c0708d157094197",
+          "sha256": "7f373b43bbf7e520cb155f348ee01ae75f5e5ab4bbcc53f7016816419b74b2f0",
+          "sha1": "e6efaa9614c32a3ed3a15ca6fc47559f8d8c8c1e",
+          "md5": "81fe96b4dde977adfddcd2cd85be2126"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-freetype-ios-v145-sources.jar",
+          "url": "natives-freetype-ios-v145-sources.jar",
+          "size": 2203198,
+          "sha512": "03594aa8c9b0211506c0248bed9c7ff9b0db135a3f82c9885eaf16a71bfb23fcd3c6dc02545bc1c9b7056da7d61549d9e6db63e47511f5903c59c23b72378cef",
+          "sha256": "cd803084f63c3cb10b953033b8dc87815dd0d6d5f0010a69732b42090ad7afd9",
+          "sha1": "eaa532f4d2ed97b31dbf333f7b62fdb826c99b2f",
+          "md5": "1fa292972311dc3450c7015cc49c09d8"
+        }
+      ]
+    }
+  ]
+}
