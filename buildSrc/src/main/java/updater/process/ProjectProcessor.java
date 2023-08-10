@@ -44,6 +44,7 @@ sourceFolder.deleteDirectory();
         {
             Fi buildSrc = sourceFolder.child("buildSrc");
             Vars.innerBuildSrc.copyFilesTo(buildSrc);
+            Vars.innerBuildSrc.child("gradlew.sh").copyTo(sourceFolder.child("gradlew.sh"));
             Fi taskFile = buildSrc.child("src/main/java/maven2github/PublishToGithubTask.java");
             taskFile.writeString(taskFile.readString().replace("File targetFolder = new File(getProject().getRootProject().getBuildDir(), \"mavenLocal\");",
                     "File targetFolder = new File(\"" + tmpRepository.absolutePath() + "\");"
