@@ -28,10 +28,10 @@
           "name": "tiled-v145.1.jar",
           "url": "tiled-v145.1.jar",
           "size": 42985,
-          "sha512": "0f3990085e247ceabb5602d367569ae028cb059b7b89a4b11e46566da3e3b5a760ad2bba2813f6ad8d8aba69db4fe6742b8eb91afe9f92d08ca968d678b218af",
-          "sha256": "1d6316dccc59640dc46005cae717b811e7ed2862397ef2caf96968bdfbaf3b97",
-          "sha1": "e3f33912337bfdddca8a33dc0be0addd35371297",
-          "md5": "f2ce3cd995ec6d2744c0e73f85e8c75e"
+          "sha512": "9b289d9807d7fdc80bd3cd84f56ce7b74dd3f34428dee60d6c9783af2c9ac50774f8eb6fcb8f70d48525470fd165b93d57aaded324ae636945b64e385693bd10",
+          "sha256": "751116ba483363e4fcafac3073a7361a99eb60487e49b702330dd806bdf134a3",
+          "sha1": "4a432cb2683c655debe08a2cfedc162e2e96fba9",
+          "md5": "1f70f3c2765d9d7fdf1aea87380e55df"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "tiled-v145.1.jar",
           "url": "tiled-v145.1.jar",
           "size": 42985,
-          "sha512": "0f3990085e247ceabb5602d367569ae028cb059b7b89a4b11e46566da3e3b5a760ad2bba2813f6ad8d8aba69db4fe6742b8eb91afe9f92d08ca968d678b218af",
-          "sha256": "1d6316dccc59640dc46005cae717b811e7ed2862397ef2caf96968bdfbaf3b97",
-          "sha1": "e3f33912337bfdddca8a33dc0be0addd35371297",
-          "md5": "f2ce3cd995ec6d2744c0e73f85e8c75e"
+          "sha512": "9b289d9807d7fdc80bd3cd84f56ce7b74dd3f34428dee60d6c9783af2c9ac50774f8eb6fcb8f70d48525470fd165b93d57aaded324ae636945b64e385693bd10",
+          "sha256": "751116ba483363e4fcafac3073a7361a99eb60487e49b702330dd806bdf134a3",
+          "sha1": "4a432cb2683c655debe08a2cfedc162e2e96fba9",
+          "md5": "1f70f3c2765d9d7fdf1aea87380e55df"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "tiled-v145.1-sources.jar",
           "url": "tiled-v145.1-sources.jar",
           "size": 23367,
-          "sha512": "f4caeee75931603b657bd31a6bf4e22bd4e2fb2eb1d8302eb2422cda047726527532c9b622543e241dde53207373fee7554b491a060f69382e524caf9a192f09",
-          "sha256": "b41f1f12554cfc8528bb56e1d50c964876aced3920a49e45d87e396728303371",
-          "sha1": "ec8cd4d7b0e8544834ff7ac26a9bf4ba93bc09c3",
-          "md5": "7ec837fb2a908074ccb21f035168b0ae"
+          "sha512": "3481f8368fb416cc4db1ddca4a00f32f06e7ab74c1466ce47c872bded676b56091fffe429b62cbd8c4cb0ac51fee3122f6d5f9501a4164d159118188ab0da3a1",
+          "sha256": "d4aa4e65b629644e71428f51f83915c1374056bd3f2d3d6f2704fb80de29383f",
+          "sha1": "4714bf5467798abd97f84dfbff175a33d8f9c80d",
+          "md5": "114ab904e015d05c5526b906eaca0e4b"
         }
       ]
     }

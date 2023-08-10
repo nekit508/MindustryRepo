@@ -28,10 +28,10 @@
           "name": "backend-headless-v145.1.jar",
           "url": "backend-headless-v145.1.jar",
           "size": 4054,
-          "sha512": "5c3e31eda68b77486d60d9bdac9e540a93462176e1650a75af8e4bf3fb481a57b06cfb680506dcc3d1ee93066332ebf203c2ba36151900b7f1c48ba0b323c643",
-          "sha256": "6243104aa1e637b7b383a72d7f8aca3252f46ef6bb3b3fca5549434e246235b7",
-          "sha1": "6aa7842334083e3a52cf700be628a484f0f9cded",
-          "md5": "09395b295892cf8cde35bd564b0fa52c"
+          "sha512": "90c1c39a91b8e38ac26916c45b7f1bacbac403c34b1bd1b4ab30d9fcee39676c67ac8957be0742cb7bc1536a1179570ce6c04d24c013d311317c58b22e7c19cd",
+          "sha256": "c89edeec68e499c253f6c0c916e4cdae44461b3eee88b9c017f45c07dd6db077",
+          "sha1": "737ca5eb8e45bb3c948ad8ad81df1c7e1e3fd7c8",
+          "md5": "ec82c6d16bf678a4b894bf18ca85c38a"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "backend-headless-v145.1.jar",
           "url": "backend-headless-v145.1.jar",
           "size": 4054,
-          "sha512": "5c3e31eda68b77486d60d9bdac9e540a93462176e1650a75af8e4bf3fb481a57b06cfb680506dcc3d1ee93066332ebf203c2ba36151900b7f1c48ba0b323c643",
-          "sha256": "6243104aa1e637b7b383a72d7f8aca3252f46ef6bb3b3fca5549434e246235b7",
-          "sha1": "6aa7842334083e3a52cf700be628a484f0f9cded",
-          "md5": "09395b295892cf8cde35bd564b0fa52c"
+          "sha512": "90c1c39a91b8e38ac26916c45b7f1bacbac403c34b1bd1b4ab30d9fcee39676c67ac8957be0742cb7bc1536a1179570ce6c04d24c013d311317c58b22e7c19cd",
+          "sha256": "c89edeec68e499c253f6c0c916e4cdae44461b3eee88b9c017f45c07dd6db077",
+          "sha1": "737ca5eb8e45bb3c948ad8ad81df1c7e1e3fd7c8",
+          "md5": "ec82c6d16bf678a4b894bf18ca85c38a"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "backend-headless-v145.1-sources.jar",
           "url": "backend-headless-v145.1-sources.jar",
           "size": 1790,
-          "sha512": "f4f6cd39c2098bf094f1a8323676858b6b95ef4fe9916106411e344f4d7b74227c9fdc01df9377b220e1f0aa3d615eedd6435e891698143508b975a8155538ed",
-          "sha256": "5cdfcaa834ce6092a6b57eb438218b6a2956ca015ff861c43360f5fb71bf3427",
-          "sha1": "54c2166daca3370f603d9a72a385610724ad584c",
-          "md5": "e0d7049b6e48f0c1d6f09f5f3d6a99ea"
+          "sha512": "b8818a06b9841111c0cc1e0cdff1b078c2deeb3da55b01f95a984cbdbe328b56d25e8f139b3379eb2c827ce5d422a27e81f50ca3303c5e7e10f0d0b5652efe74",
+          "sha256": "ca21626c6e1c84e9078928ed757c25307c9f4b99fffe8391878b45f780faa7fd",
+          "sha1": "2fe8ea42ec318e5b36dc53367578348c3fabab99",
+          "md5": "cacf987f4400a14bcad8c5f1a8e963e3"
         }
       ]
     }

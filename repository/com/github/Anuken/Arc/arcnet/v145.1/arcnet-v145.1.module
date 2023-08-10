@@ -28,10 +28,10 @@
           "name": "arcnet-v145.1.jar",
           "url": "arcnet-v145.1.jar",
           "size": 52604,
-          "sha512": "0655cb58cefe2c456c5e8f4019aaa92f8f1dccf5c861166ae3d3db19f83aaa19013a5fbb6e419006630779f488cf66ed5253e12f257d1ea83cdea1f3e875a4ef",
-          "sha256": "c3990e6b2d376cd627a87893c42ee8b4db0588d4719488dda77c2f1f83467066",
-          "sha1": "a36250b9a2d966456eb1e9d2adef65b68ab3f74a",
-          "md5": "f9a0444cd384339c422eb59b576fc4ab"
+          "sha512": "238cb78f13ecdc5fe3ebe162a9519826511c494a800101b3b5d95feb713489b0bc1262637cf6fdd3e127d14ac7570f00968267432d86a067469834f10c1df4e1",
+          "sha256": "c4eb208f8ae0b25de0f11cbbedb34c7e9dd65e49a6bffad7d291036b853c31f8",
+          "sha1": "eac0138ab18e3fea4bc691b2615e97dae15f9cea",
+          "md5": "d399ce11d008958956e76a13b91cee09"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "arcnet-v145.1.jar",
           "url": "arcnet-v145.1.jar",
           "size": 52604,
-          "sha512": "0655cb58cefe2c456c5e8f4019aaa92f8f1dccf5c861166ae3d3db19f83aaa19013a5fbb6e419006630779f488cf66ed5253e12f257d1ea83cdea1f3e875a4ef",
-          "sha256": "c3990e6b2d376cd627a87893c42ee8b4db0588d4719488dda77c2f1f83467066",
-          "sha1": "a36250b9a2d966456eb1e9d2adef65b68ab3f74a",
-          "md5": "f9a0444cd384339c422eb59b576fc4ab"
+          "sha512": "238cb78f13ecdc5fe3ebe162a9519826511c494a800101b3b5d95feb713489b0bc1262637cf6fdd3e127d14ac7570f00968267432d86a067469834f10c1df4e1",
+          "sha256": "c4eb208f8ae0b25de0f11cbbedb34c7e9dd65e49a6bffad7d291036b853c31f8",
+          "sha1": "eac0138ab18e3fea4bc691b2615e97dae15f9cea",
+          "md5": "d399ce11d008958956e76a13b91cee09"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "arcnet-v145.1-sources.jar",
           "url": "arcnet-v145.1-sources.jar",
           "size": 28594,
-          "sha512": "c866655be003a0e2aaee8ad1ce15df6e0a1ab5e748baf31bcda3f4b95a374dd195ad7d66b8a666e95aaffe3a6dbae38d8a153c613f1b851a324c160b15b4587b",
-          "sha256": "4486285b47f8d32cf411e0b5d34cd19a0e008a1db2b9c1b26ed4998b4b613b74",
-          "sha1": "7f40b357d884cf1bc7ec14e46b03c7f38a80fc9c",
-          "md5": "2b6c0ba4575289aa8fdf4846dc0d4952"
+          "sha512": "d805cddb495d5e40423d1449c2d517b9c5435740599dbb4ea52d0122d8d7d9a385ab9cd5e8bb07075eeb905272988aeea34cbbd4bc71ebec062f85287c6bb2aa",
+          "sha256": "1513d19267ca28ac06be479a4f3a83f3b12afe421df35185890595ae11cc3844",
+          "sha1": "b7f274872b9946a4605b837be77c446dba5cbfdc",
+          "md5": "047a805ec1c8fc2286ac8ca858994bd5"
         }
       ]
     }

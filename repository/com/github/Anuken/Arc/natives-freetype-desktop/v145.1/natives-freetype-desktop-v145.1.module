@@ -28,10 +28,10 @@
           "name": "natives-freetype-desktop-v145.1.jar",
           "url": "natives-freetype-desktop-v145.1.jar",
           "size": 1098026,
-          "sha512": "0912942ab167e116c3bf79a181dfcc1a4a9625046072a7098e0cfbfbd6320c2bec5d51595f0e7e1ac24757be282d0b6659fb7c696b6cae052e224f7dcbcccb48",
-          "sha256": "56a5712ca5a1bc2cc554425dd0d68edc169778a4febcc0f1cfb5255b9ce1393e",
-          "sha1": "9cd2b1ebb4e8494ef56d271eb34dbdaa02fcfcb6",
-          "md5": "afaa1bdbc26500deea17194c4ef038f4"
+          "sha512": "e1b4cc2bbcbf7e3b5d3b953a3ebf0850ebc04f075915dd8df1a9b25245a15aca1116eadb93735edfcdd7ed442c56ff06fb55ebfdd753f1a388ac684fa842877f",
+          "sha256": "070a815c700a43781a4ce40ed8ac9a970ebfc29e438e150b1a1945dbf95f049a",
+          "sha1": "2e2fa0025b0e3d925ce3cfbc18fbe77ba39d2db5",
+          "md5": "eb688609b40c1cc1a3e87941b5bdb1cd"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-freetype-desktop-v145.1.jar",
           "url": "natives-freetype-desktop-v145.1.jar",
           "size": 1098026,
-          "sha512": "0912942ab167e116c3bf79a181dfcc1a4a9625046072a7098e0cfbfbd6320c2bec5d51595f0e7e1ac24757be282d0b6659fb7c696b6cae052e224f7dcbcccb48",
-          "sha256": "56a5712ca5a1bc2cc554425dd0d68edc169778a4febcc0f1cfb5255b9ce1393e",
-          "sha1": "9cd2b1ebb4e8494ef56d271eb34dbdaa02fcfcb6",
-          "md5": "afaa1bdbc26500deea17194c4ef038f4"
+          "sha512": "e1b4cc2bbcbf7e3b5d3b953a3ebf0850ebc04f075915dd8df1a9b25245a15aca1116eadb93735edfcdd7ed442c56ff06fb55ebfdd753f1a388ac684fa842877f",
+          "sha256": "070a815c700a43781a4ce40ed8ac9a970ebfc29e438e150b1a1945dbf95f049a",
+          "sha1": "2e2fa0025b0e3d925ce3cfbc18fbe77ba39d2db5",
+          "md5": "eb688609b40c1cc1a3e87941b5bdb1cd"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-freetype-desktop-v145.1-sources.jar",
           "url": "natives-freetype-desktop-v145.1-sources.jar",
           "size": 1098026,
-          "sha512": "6238cf8f6217e7d54cd3aa40d8bfc6da788480b428fa33134dfb368ded59bb83dc67cb64dfbd984516b74d07ef3b6646b430aad32d93d99277d9b10c40de1538",
-          "sha256": "510dc39b40c3db9e8297c1a31d5caa8650a557988bdf839b14f8fd82761e6d98",
-          "sha1": "e19fb2177ce58de3314457ebb022e6f7a3ab6fa2",
-          "md5": "ec187eac99ea36ad1aad945a24eb7914"
+          "sha512": "2e93c3dc7b31211103c77e5f6b063a0dd101b775da331ac71f024bbf38354333c7ab1f5c06582d75b43d10c675382a78f7422915e99586257d0d1a49185fa659",
+          "sha256": "5bd1a7e389ab6f7db2ca97af6ddf116a171389ae5f2f724657a418a43fe7708f",
+          "sha1": "3ad6a591b173d6d4093ba14639576c694ea77ed6",
+          "md5": "fece11e4f201613328ca502ad90c7179"
         }
       ]
     }

@@ -28,10 +28,10 @@
           "name": "discord-v145.1.jar",
           "url": "discord-v145.1.jar",
           "size": 15193,
-          "sha512": "914f5e17be363fe15332898378ebe468a8e07c7698664588a48b484cbf03113f38b44e97455fba6af1b9621bfce7e11f7a2105a15bbdca1b2407810a5254b60d",
-          "sha256": "23d92d6d92d12a3e600f423f6669954e19f8ec9353c79591fd34cf453d99743b",
-          "sha1": "88c6de91f78ea7236947748b1c4ef9d743938ae0",
-          "md5": "42d76ec3b21bde338854920a3589aea6"
+          "sha512": "0e05446c79fdfd630ded04707b96e916644b12d4646b6b4065e04a8d285a28131585e365fa124b45c1dc89ef66c4ec596e3ab7005689e0c08f7b209c58ea77ea",
+          "sha256": "a7cec1a0edcf52b4db74cfe676d8010fcf03cb0cd7f6ab59272ba060f031d790",
+          "sha1": "1c86515515389efe1d292c16b5b4fff3d8afa6a9",
+          "md5": "d0eb5a2f2f4c69840308f9b037cdfebb"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "discord-v145.1.jar",
           "url": "discord-v145.1.jar",
           "size": 15193,
-          "sha512": "914f5e17be363fe15332898378ebe468a8e07c7698664588a48b484cbf03113f38b44e97455fba6af1b9621bfce7e11f7a2105a15bbdca1b2407810a5254b60d",
-          "sha256": "23d92d6d92d12a3e600f423f6669954e19f8ec9353c79591fd34cf453d99743b",
-          "sha1": "88c6de91f78ea7236947748b1c4ef9d743938ae0",
-          "md5": "42d76ec3b21bde338854920a3589aea6"
+          "sha512": "0e05446c79fdfd630ded04707b96e916644b12d4646b6b4065e04a8d285a28131585e365fa124b45c1dc89ef66c4ec596e3ab7005689e0c08f7b209c58ea77ea",
+          "sha256": "a7cec1a0edcf52b4db74cfe676d8010fcf03cb0cd7f6ab59272ba060f031d790",
+          "sha1": "1c86515515389efe1d292c16b5b4fff3d8afa6a9",
+          "md5": "d0eb5a2f2f4c69840308f9b037cdfebb"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "discord-v145.1-sources.jar",
           "url": "discord-v145.1-sources.jar",
           "size": 4401,
-          "sha512": "db49e58ab0d8951159f57ee33624444c6b1f64cc2e70989caaa8f3e5a3af7d666cd20c8df77b102e445e3b5823678be14c2b8d8beb9c310659b5959118430ebb",
-          "sha256": "67e7bb4882f499900a9d7ddabcce8dc1477097c7d067104e8b719aec45c2c104",
-          "sha1": "c477dcc37e143007e3c5e2354f874d2613886a10",
-          "md5": "86d0b71f06a9e14b99ebeb71f92ab216"
+          "sha512": "135bd95ca452cfc8a545c9521b730aec7799f46dd2fe920d819273212c15a5972d2fee584e7e56e12390f282c67677b587ae64c38b70f5b3da050f6b34eec84b",
+          "sha256": "42dad5876c76ed27bb94852d1554e6e6d74a991ff6c74f3db1cff60439c57220",
+          "sha1": "574baf95b16aed5eb6619d9de8bdc3e442978bf6",
+          "md5": "048cde400fa12ee8563b17aec6f1eedf"
         }
       ]
     }

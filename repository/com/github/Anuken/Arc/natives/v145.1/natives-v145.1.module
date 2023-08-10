@@ -28,10 +28,10 @@
           "name": "natives-v145.1.jar",
           "url": "natives-v145.1.jar",
           "size": 261,
-          "sha512": "96724358ad3f6ac02889079860dcae6fce5c13f8bf2f6513f8040144d26652effa371c99dbf8444fa3da2b19a24736066fa8f540a411f7b0da46ad058f2cc48c",
-          "sha256": "2e3ac84283a74e80bfa45a1ccd94f9b0fcb2c880ba85bba072b98ded7f19a231",
-          "sha1": "086ae98c5645e422ac7d8ac8f1c4d95251f93a41",
-          "md5": "7ba14df1fbfb23fe2230f9737cdd2bc2"
+          "sha512": "9b83018dde984564e213cd5acddc86a1a9a83da545b01314e1f15ffb23d893b2514a2452d44bdb6b2692f6e1aa8deae6d716ce76563aa5c09d191c37fc62c7db",
+          "sha256": "208f33563792974254dc94184aac2656d6440be77339098b1620429cd240fcec",
+          "sha1": "6e315477f497bb999607f7cc90a8a37183d74fc7",
+          "md5": "acfc8ed55d39faa73875598382aa4a43"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-v145.1.jar",
           "url": "natives-v145.1.jar",
           "size": 261,
-          "sha512": "96724358ad3f6ac02889079860dcae6fce5c13f8bf2f6513f8040144d26652effa371c99dbf8444fa3da2b19a24736066fa8f540a411f7b0da46ad058f2cc48c",
-          "sha256": "2e3ac84283a74e80bfa45a1ccd94f9b0fcb2c880ba85bba072b98ded7f19a231",
-          "sha1": "086ae98c5645e422ac7d8ac8f1c4d95251f93a41",
-          "md5": "7ba14df1fbfb23fe2230f9737cdd2bc2"
+          "sha512": "9b83018dde984564e213cd5acddc86a1a9a83da545b01314e1f15ffb23d893b2514a2452d44bdb6b2692f6e1aa8deae6d716ce76563aa5c09d191c37fc62c7db",
+          "sha256": "208f33563792974254dc94184aac2656d6440be77339098b1620429cd240fcec",
+          "sha1": "6e315477f497bb999607f7cc90a8a37183d74fc7",
+          "md5": "acfc8ed55d39faa73875598382aa4a43"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-v145.1-sources.jar",
           "url": "natives-v145.1-sources.jar",
           "size": 261,
-          "sha512": "96724358ad3f6ac02889079860dcae6fce5c13f8bf2f6513f8040144d26652effa371c99dbf8444fa3da2b19a24736066fa8f540a411f7b0da46ad058f2cc48c",
-          "sha256": "2e3ac84283a74e80bfa45a1ccd94f9b0fcb2c880ba85bba072b98ded7f19a231",
-          "sha1": "086ae98c5645e422ac7d8ac8f1c4d95251f93a41",
-          "md5": "7ba14df1fbfb23fe2230f9737cdd2bc2"
+          "sha512": "9b83018dde984564e213cd5acddc86a1a9a83da545b01314e1f15ffb23d893b2514a2452d44bdb6b2692f6e1aa8deae6d716ce76563aa5c09d191c37fc62c7db",
+          "sha256": "208f33563792974254dc94184aac2656d6440be77339098b1620429cd240fcec",
+          "sha1": "6e315477f497bb999607f7cc90a8a37183d74fc7",
+          "md5": "acfc8ed55d39faa73875598382aa4a43"
         }
       ]
     }

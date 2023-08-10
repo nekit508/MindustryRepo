@@ -28,10 +28,10 @@
           "name": "natives-freetype-ios-v145.1.jar",
           "url": "natives-freetype-ios-v145.1.jar",
           "size": 2203198,
-          "sha512": "950e9b145076cedeea13098c4b5f01d2ad24b16a293c0a4e62121fd7e6c6ed823432228df6bdfad2bf898eb2c2d7b510d664e1e009029e58bb218fee6c90621f",
-          "sha256": "d1c5645cf07516bc1e51bbb96e41c51b86219c5f275bad300587cec6a6a1b603",
-          "sha1": "1317b2d61d059268ccaa0da9a28d01c74bda8aae",
-          "md5": "0b2d3d5213337dfbd2c227b8f0c3ceff"
+          "sha512": "6863d33fe0503293f7ef3a9d1cb03e80e5df6d89e9b10810ffb28054a09c51f96736a3d6d40dcc57db747244b57d460b00a904f6a2bb537e92e1cd337da54d3e",
+          "sha256": "bfd0ef2a58582321da716c7b0ec40da68e0c00521289d69331aed73d050454a0",
+          "sha1": "6e0f228a86d43a45aa3f19baf034820897961918",
+          "md5": "76c8687d14d5ee3dcdcebc3794328116"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-freetype-ios-v145.1.jar",
           "url": "natives-freetype-ios-v145.1.jar",
           "size": 2203198,
-          "sha512": "950e9b145076cedeea13098c4b5f01d2ad24b16a293c0a4e62121fd7e6c6ed823432228df6bdfad2bf898eb2c2d7b510d664e1e009029e58bb218fee6c90621f",
-          "sha256": "d1c5645cf07516bc1e51bbb96e41c51b86219c5f275bad300587cec6a6a1b603",
-          "sha1": "1317b2d61d059268ccaa0da9a28d01c74bda8aae",
-          "md5": "0b2d3d5213337dfbd2c227b8f0c3ceff"
+          "sha512": "6863d33fe0503293f7ef3a9d1cb03e80e5df6d89e9b10810ffb28054a09c51f96736a3d6d40dcc57db747244b57d460b00a904f6a2bb537e92e1cd337da54d3e",
+          "sha256": "bfd0ef2a58582321da716c7b0ec40da68e0c00521289d69331aed73d050454a0",
+          "sha1": "6e0f228a86d43a45aa3f19baf034820897961918",
+          "md5": "76c8687d14d5ee3dcdcebc3794328116"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-freetype-ios-v145.1-sources.jar",
           "url": "natives-freetype-ios-v145.1-sources.jar",
           "size": 2203198,
-          "sha512": "0c3f6d19ea49d7e5b5d41c90a13b5424965a4eb81c6b2fc545db40c9c461c990a2ca4647fe1cb69cb0be0b6d039ea7d3e9ffeab0c0fc01b03f9a8aedb0071e5b",
-          "sha256": "34d7b71687d45ee00e2dd7113901b8085c5813ce0df54f97b3b695a416506e56",
-          "sha1": "a84cb9eafff4f67de0b5a068a7cfe34bf3b60978",
-          "md5": "6e0a52f8d78c64c67767b23f3111199b"
+          "sha512": "1c3a5b698bce740b8559ec89ea60ce224d614ede8b35dd252df1616e91d97001829683906a501db17697190ee5cbdd0037d0af50cff72f8484ec5949dee638fa",
+          "sha256": "b3f744293d5fb32a3e0fa6911b587fb0c5ead454db512a1cd02ea505602b9521",
+          "sha1": "01ca2021e4abab1b95b63188fc61964b2f1627e1",
+          "md5": "8e51f39b9dc23e41fb949e0d441a4698"
         }
       ]
     }
