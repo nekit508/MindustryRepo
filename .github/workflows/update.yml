@@ -27,6 +27,6 @@ jobs:
         run: |
           git config --global user.email "cli@github.com"
           git config --global user.name "Github Actions"
-          git add /*
+          git add *
           git commit --allow-empty -m "[auto-update]"
           git push https://Zelaux:${{ secrets.API_TOKEN_GITHUB }}@github.com/Zelaux/MindustryRepo
