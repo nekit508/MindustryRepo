@@ -4,6 +4,7 @@ import arc.files.Fi;
 import arc.files.ZipFi;
 import arc.func.Cons;
 import arc.struct.OrderedSet;
+import arc.util.OS;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -76,7 +77,14 @@ sourceFolder.deleteDirectory();
             }
         }
         System.out.println("gradlew publishFolder");
-        ProcessBuilder pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew", "publishFolder", "--stacktrace");
+        ProcessBuilder pb;
+        if(OS.isLinux){
+            Runtime.getRuntime()
+                    .exec("chmod +x gradlew",null,sourceFolder.file());
+            pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew", "publishFolder", "--stacktrace");
+        }else {
+            pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew.bat", "publishFolder", "--stacktrace");
+        }
         pb.directory(sourceFolder.file());
 //        pb.inheritIO();
         pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
