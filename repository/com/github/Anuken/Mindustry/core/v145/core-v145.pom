@@ -52,11 +52,5 @@
       <version>v145</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>com.github.Anuken.Mindustry</groupId>
-      <artifactId>rhino</artifactId>
-      <version>73a812444ac388ac2d94013b5cadc8f70b7ea027</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
