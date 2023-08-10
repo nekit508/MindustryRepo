@@ -28,10 +28,10 @@
           "name": "flabel-v145.1.jar",
           "url": "flabel-v145.1.jar",
           "size": 33718,
-          "sha512": "e600dc14a9d02cc7ac030ca4ec7b53610ed3d28fc1cc6ab865e4a2b251421bb0128edd54d65269919b24a6e0567b56f5f319128436fa9586f406af4bd5ebef38",
-          "sha256": "c0a2976a69fff5fbc019c030c44ed794537d154c3d944ab58d455d448a55cf98",
-          "sha1": "0652e4a497fa1682c87f37c9ce3501a745d0e373",
-          "md5": "680c5d89ad99c7937be7be13a8c5ef09"
+          "sha512": "c322f7bf03ff8d174e1635aa8d459f070de0bb45a9b06cccb6c70b084210e93040ab210da225e27d3b7106cf5c62c85060d45cf622d31612e6eeda6cef5cb758",
+          "sha256": "4eeed32b36ac04983efa5b57e0f6eb2a4e2af4493728da299b336bf3e9bcd748",
+          "sha1": "166ead1fe9c530c47a4c00d6693c103e00cf2371",
+          "md5": "9e25f41d166967b71dfc8dc6ab88416b"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "flabel-v145.1.jar",
           "url": "flabel-v145.1.jar",
           "size": 33718,
-          "sha512": "e600dc14a9d02cc7ac030ca4ec7b53610ed3d28fc1cc6ab865e4a2b251421bb0128edd54d65269919b24a6e0567b56f5f319128436fa9586f406af4bd5ebef38",
-          "sha256": "c0a2976a69fff5fbc019c030c44ed794537d154c3d944ab58d455d448a55cf98",
-          "sha1": "0652e4a497fa1682c87f37c9ce3501a745d0e373",
-          "md5": "680c5d89ad99c7937be7be13a8c5ef09"
+          "sha512": "c322f7bf03ff8d174e1635aa8d459f070de0bb45a9b06cccb6c70b084210e93040ab210da225e27d3b7106cf5c62c85060d45cf622d31612e6eeda6cef5cb758",
+          "sha256": "4eeed32b36ac04983efa5b57e0f6eb2a4e2af4493728da299b336bf3e9bcd748",
+          "sha1": "166ead1fe9c530c47a4c00d6693c103e00cf2371",
+          "md5": "9e25f41d166967b71dfc8dc6ab88416b"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "flabel-v145.1-sources.jar",
           "url": "flabel-v145.1-sources.jar",
           "size": 20633,
-          "sha512": "3f70c44462db6a6306bb80375df04cb1758c6d680ca364aa59e2680446a9ab122a006e7a4eb43365df93f4a945659171aa08766cfecada35e705f7ea121ce65b",
-          "sha256": "37f58a173deb606d47bbaaba45dba7044f0b35c607d10dbcabe19bbc51ec5d76",
-          "sha1": "f3f757cbec0316496fccc45375436432824d19c6",
-          "md5": "4a44836fc645079a3cee92d7d320b24e"
+          "sha512": "466f807b3e1c4b3d8f5f897ea16c3a9e18f09cea304a35a01d6f43807608dc687fc3597a41233312db27fed3c76f242fae9c34be733e3409fd50652e43f8eaaf",
+          "sha256": "1c5c8cbd88dedb3ddbcc0f053fccd12f289880e0046d32607944edc96b0ecbdb",
+          "sha1": "feb2c30f3e92453f8bc68e8573a5a294aba6b44c",
+          "md5": "5d554176ff8f647665e70627387a8b4c"
         }
       ]
     }

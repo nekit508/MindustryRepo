@@ -28,10 +28,10 @@
           "name": "natives-box2d-android-v145.1.jar",
           "url": "natives-box2d-android-v145.1.jar",
           "size": 411485,
-          "sha512": "4667d531cb5eed4d7953693d80bab48b864d9a5c9c1355c5784ed1dc40d85acb779e9c513baa307ce29b54016a7b294178745212e4666b5423e053fdfe2ab162",
-          "sha256": "bb315504346447045196bdeda55ad3c3d592d9acb1f6d04865cdb795a8e917e2",
-          "sha1": "1d2d7c9e4c8f0aa24aed08cd117281771818666c",
-          "md5": "7e27bb4d8c1c1db4b5f5d8d47bc4e201"
+          "sha512": "f097397b7822434d7fd2c2a9510e0d620740404a4f9d92ce691461e9374fd0e2f77bec48ec0d6358c15d0ba84e6cb6cf6a4af3f47895c7766402b2312c008a0a",
+          "sha256": "bcb617833e68b2fa28d443a73cf813b7cfd6cdbc3a05299ab1072b070b551f4c",
+          "sha1": "c4a7d840d3ff6c466edca28f254e1fa410e82954",
+          "md5": "00bbeb53edc4e2cf4f5b46b7f46cf524"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-box2d-android-v145.1.jar",
           "url": "natives-box2d-android-v145.1.jar",
           "size": 411485,
-          "sha512": "4667d531cb5eed4d7953693d80bab48b864d9a5c9c1355c5784ed1dc40d85acb779e9c513baa307ce29b54016a7b294178745212e4666b5423e053fdfe2ab162",
-          "sha256": "bb315504346447045196bdeda55ad3c3d592d9acb1f6d04865cdb795a8e917e2",
-          "sha1": "1d2d7c9e4c8f0aa24aed08cd117281771818666c",
-          "md5": "7e27bb4d8c1c1db4b5f5d8d47bc4e201"
+          "sha512": "f097397b7822434d7fd2c2a9510e0d620740404a4f9d92ce691461e9374fd0e2f77bec48ec0d6358c15d0ba84e6cb6cf6a4af3f47895c7766402b2312c008a0a",
+          "sha256": "bcb617833e68b2fa28d443a73cf813b7cfd6cdbc3a05299ab1072b070b551f4c",
+          "sha1": "c4a7d840d3ff6c466edca28f254e1fa410e82954",
+          "md5": "00bbeb53edc4e2cf4f5b46b7f46cf524"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-box2d-android-v145.1-sources.jar",
           "url": "natives-box2d-android-v145.1-sources.jar",
           "size": 411485,
-          "sha512": "d9d73c7d90da073d3e45d0e9a55c24000da277495beeba8581930c349c2bc8d0b9a19abd48712e12c285a6f79b0dc73c7ef9d373af83d20fa0755a616791823a",
-          "sha256": "20f2005a058791fa1ca598413c4615d759580f88d3f45f73b00f2fc38c8e87de",
-          "sha1": "0713d8ed924e35ced8dc7cb29e4613e51ea48732",
-          "md5": "a2de7c4407d02c0a40dc3ad7d6d093f0"
+          "sha512": "62d9bd748fb6c7a69be372ef5875aaa0670f1bd7f7dc12de8c394ca6888334da0c337055c8defcac49e17e2b87b8bc97af5e6ae2bc382ce1286960e6cf731a4e",
+          "sha256": "1ca381398716d3287751b0ba4cfcc87c32a554dd66ce597329930697e4a1f4c9",
+          "sha1": "e0ca9f30de667f66499caa6bcf71cc00632f4b77",
+          "md5": "f3c3738fc92833f859914163cf53e2a1"
         }
       ]
     }

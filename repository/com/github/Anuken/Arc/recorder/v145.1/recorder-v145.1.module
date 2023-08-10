@@ -28,10 +28,10 @@
           "name": "recorder-v145.1.jar",
           "url": "recorder-v145.1.jar",
           "size": 5599,
-          "sha512": "ff726939b3a1c0da0418d12a62fff87329b4bb18708eee729188f9df260a35b4ff7ceb5f54243ec46a15485d4ede12447eb285d4f3369c0dfc5e94df87063b6c",
-          "sha256": "4d0ad9ba3efa55dc538a0023e25caad812b67454a6fdc43f038cc02140a98b25",
-          "sha1": "137c62013ebf8a8eb42ec2e832421c7cd22c63e3",
-          "md5": "c67babfce2b44e7cb75710ee8d16ae32"
+          "sha512": "18f885a9dbea0e9b3d135e77d15add0ea4e0e9b43bedc25c87028addb4a89e40dcbadcb501340bfec6a34dbc7396ffd7793918d3cac12eb78af100928719a34f",
+          "sha256": "d2e324237b0039db3b1162aef52e7751e9795abb8bae8a8d176a3166033b3692",
+          "sha1": "562624a5768d5df3f2b806bb5c6bdb71b205bf01",
+          "md5": "98a06ba4783444354ceaa9f5533b9c98"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "recorder-v145.1.jar",
           "url": "recorder-v145.1.jar",
           "size": 5599,
-          "sha512": "ff726939b3a1c0da0418d12a62fff87329b4bb18708eee729188f9df260a35b4ff7ceb5f54243ec46a15485d4ede12447eb285d4f3369c0dfc5e94df87063b6c",
-          "sha256": "4d0ad9ba3efa55dc538a0023e25caad812b67454a6fdc43f038cc02140a98b25",
-          "sha1": "137c62013ebf8a8eb42ec2e832421c7cd22c63e3",
-          "md5": "c67babfce2b44e7cb75710ee8d16ae32"
+          "sha512": "18f885a9dbea0e9b3d135e77d15add0ea4e0e9b43bedc25c87028addb4a89e40dcbadcb501340bfec6a34dbc7396ffd7793918d3cac12eb78af100928719a34f",
+          "sha256": "d2e324237b0039db3b1162aef52e7751e9795abb8bae8a8d176a3166033b3692",
+          "sha1": "562624a5768d5df3f2b806bb5c6bdb71b205bf01",
+          "md5": "98a06ba4783444354ceaa9f5533b9c98"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "recorder-v145.1-sources.jar",
           "url": "recorder-v145.1-sources.jar",
           "size": 2819,
-          "sha512": "b6b70b06c5a97d290bdc694543dcf4a7fa119823d3ad0240962915e2c5f7c7b96540d83e0a8a61f87a4225def1a77156796ff71b160ea1b6353cf2e443b0860d",
-          "sha256": "5972d4bb6e8cee339df1874399ef0f47ed4631abcfae75a10bafc73e3129686e",
-          "sha1": "3ccf1b80e49ec1902d8e7d663b08bccbe7cf431f",
-          "md5": "61dec9adbfb86f3bedac1a0773611ac9"
+          "sha512": "f31bd679127b9741ba53d6242c351757a72f3a6e727ab0f7ef5beb9174a2eac6d49ddf90acb89510184a365c4c4672b2889d7b9243523df145364eee8b984e7a",
+          "sha256": "cbad3474383ca009ffa3bdabbe1f6690ecec7496a40bde01015b8534d3c7df53",
+          "sha1": "aa40283e52688289defb33b8cd809b95aca96a0e",
+          "md5": "cf21caeaa72c568650b0b3d8b5f4b1d8"
         }
       ]
     }

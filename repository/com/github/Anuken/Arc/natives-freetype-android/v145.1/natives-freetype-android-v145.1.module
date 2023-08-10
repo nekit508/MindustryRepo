@@ -28,10 +28,10 @@
           "name": "natives-freetype-android-v145.1.jar",
           "url": "natives-freetype-android-v145.1.jar",
           "size": 945221,
-          "sha512": "f1fd1813b0183eb70405d063521d49425f14fbe6d4f9e04ce9c99dc67af9f43e3e9aa5bd086dea15e2b531b3e59adab40b85ac281bd3f9a716f32bc6ea935db4",
-          "sha256": "1c0f0ab866f5f624fb48c8a93cfdd8b0051d69487d847928ff57589902328eb6",
-          "sha1": "30bcd7e3b312d3646b0e9b5c1cbe168b120308f1",
-          "md5": "78faf60aa8fe015ecf491830a169ab3f"
+          "sha512": "2e5b8e95a5db1a67b3a49fb2531b7bd695c10d4532e567eb912308faba6528eda0363f1b635a759c2402862ea0affec31f30813a3158c6d7563c584ede911acb",
+          "sha256": "b35560715fe6bd3d82c57cbdd0074194c051b2bf281ad967cad8e8d256abe239",
+          "sha1": "fdfbf0de6470c174d39d9a64531c4fe30a55661a",
+          "md5": "dd110311dd8ab9488b98403bc984f526"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-freetype-android-v145.1.jar",
           "url": "natives-freetype-android-v145.1.jar",
           "size": 945221,
-          "sha512": "f1fd1813b0183eb70405d063521d49425f14fbe6d4f9e04ce9c99dc67af9f43e3e9aa5bd086dea15e2b531b3e59adab40b85ac281bd3f9a716f32bc6ea935db4",
-          "sha256": "1c0f0ab866f5f624fb48c8a93cfdd8b0051d69487d847928ff57589902328eb6",
-          "sha1": "30bcd7e3b312d3646b0e9b5c1cbe168b120308f1",
-          "md5": "78faf60aa8fe015ecf491830a169ab3f"
+          "sha512": "2e5b8e95a5db1a67b3a49fb2531b7bd695c10d4532e567eb912308faba6528eda0363f1b635a759c2402862ea0affec31f30813a3158c6d7563c584ede911acb",
+          "sha256": "b35560715fe6bd3d82c57cbdd0074194c051b2bf281ad967cad8e8d256abe239",
+          "sha1": "fdfbf0de6470c174d39d9a64531c4fe30a55661a",
+          "md5": "dd110311dd8ab9488b98403bc984f526"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-freetype-android-v145.1-sources.jar",
           "url": "natives-freetype-android-v145.1-sources.jar",
           "size": 945221,
-          "sha512": "6fe1d77755997382c9da9e278b51fc4f1571c84536f0d8c77b35faeae76989c711bdbecb8eb40d9c4c8a57696b15b91c6af844e3b90015defc2bfc3f3d746662",
-          "sha256": "25b851becaa48f359208f0adf715ed6b44f1a25ab8992f936e49a2ec6ed6269e",
-          "sha1": "1ba794c82c74ec248cadf1fe3875b70aa9a232a6",
-          "md5": "0b29f4066404093d0c840b95144982c3"
+          "sha512": "579d24525a1f0eac693d2d5dd385a080b17435bf95871f2f1a05e93c07012241a2ba05cee2cd68c6be72b81c148443d72452ff07bbf2da777823f96486b96681",
+          "sha256": "3aec0e039fb93233f616855bc441d875d093d6b22baca4e8d55a37b3edf0fa14",
+          "sha1": "50b1d07fe400626ab525cd3c63774ce2308884a4",
+          "md5": "2b4f75c292a1bc6569878491a02fd671"
         }
       ]
     }

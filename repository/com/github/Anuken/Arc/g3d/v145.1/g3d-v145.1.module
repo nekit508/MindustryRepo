@@ -28,10 +28,10 @@
           "name": "g3d-v145.1.jar",
           "url": "g3d-v145.1.jar",
           "size": 45478,
-          "sha512": "7903afcd1596e48bbb25690af548243ab317cbdaee3ce5363deaa5fac23592f84b8d47ed206c10bd7553e23bd6b0fbead4c701e423fd15b9b21029159f52e8ef",
-          "sha256": "c34bc8b5ffff0e8afd868cc86f586dcceb97255bf11c78a677efd572df1d8184",
-          "sha1": "0570c05fec89a6c57406d1d6a317c5f72638b97e",
-          "md5": "595bf1da0865dea7e6203b13e6a000b3"
+          "sha512": "8065f78ac4fee56499c4294b803746a839c2d7fcb3e1d06eeaedae97320982b4b84c3b0c9e3dff60a601124327e8da3fdf0110e232fbf75b3c0f56fa91909bb0",
+          "sha256": "deeb20122d59620db79a0d6cab974f1d1dde0a1d66c2cb6ebe43d76e54d43841",
+          "sha1": "5655c59d5abd8c81b5a4f193b6c02148fec00b5b",
+          "md5": "1decff914ab2f6389c32067edd748d9d"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "g3d-v145.1.jar",
           "url": "g3d-v145.1.jar",
           "size": 45478,
-          "sha512": "7903afcd1596e48bbb25690af548243ab317cbdaee3ce5363deaa5fac23592f84b8d47ed206c10bd7553e23bd6b0fbead4c701e423fd15b9b21029159f52e8ef",
-          "sha256": "c34bc8b5ffff0e8afd868cc86f586dcceb97255bf11c78a677efd572df1d8184",
-          "sha1": "0570c05fec89a6c57406d1d6a317c5f72638b97e",
-          "md5": "595bf1da0865dea7e6203b13e6a000b3"
+          "sha512": "8065f78ac4fee56499c4294b803746a839c2d7fcb3e1d06eeaedae97320982b4b84c3b0c9e3dff60a601124327e8da3fdf0110e232fbf75b3c0f56fa91909bb0",
+          "sha256": "deeb20122d59620db79a0d6cab974f1d1dde0a1d66c2cb6ebe43d76e54d43841",
+          "sha1": "5655c59d5abd8c81b5a4f193b6c02148fec00b5b",
+          "md5": "1decff914ab2f6389c32067edd748d9d"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "g3d-v145.1-sources.jar",
           "url": "g3d-v145.1-sources.jar",
           "size": 35268,
-          "sha512": "12ef459434d0b8d2e49a14aec859185293061cb11b9c29627197846c36c91cd653b6e64b900e00e1ee5c028f7cb21ac10ba386f46b88dd5bd72c4d7cd5b9c5cb",
-          "sha256": "508e8a544217ed3dda4154a4a3701c8296aff0217bd3ff3484040bf660924a48",
-          "sha1": "64080548679fc683984b001b50c150fb8ae25212",
-          "md5": "34344afdbc031ba489bb36dd19465903"
+          "sha512": "65b207636f4e9398cd2a152fb7307eed5bf36f255d4d81b1d24b6d54ed2ad023b9ad7381d37a6d226252b1d3c91194e89242407d3ec64bfec61734d9274a3a8d",
+          "sha256": "2d61d1d4bb38c029e25598137b262287caf110321b1f12d53d7524d93582feb1",
+          "sha1": "900fdbbc644cada6ad20f00c42fe014c455b0247",
+          "md5": "eb981a85de059c6f88f60d2549149e13"
         }
       ]
     }

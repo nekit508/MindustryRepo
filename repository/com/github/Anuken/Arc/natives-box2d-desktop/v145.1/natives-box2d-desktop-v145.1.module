@@ -28,10 +28,10 @@
           "name": "natives-box2d-desktop-v145.1.jar",
           "url": "natives-box2d-desktop-v145.1.jar",
           "size": 512159,
-          "sha512": "6ee5e91f09a52694307b4c0da1dd960543e155d92fbb52f1bfe260cf5a3b3921e732b1ef4857e5933235ea0c3941b54810de0fc9daa3053509e9d8d273100218",
-          "sha256": "3a82ea0b492a6e9ef90a65be02741eda7fc3765012eeeeab3a34757e8376a1c9",
-          "sha1": "cc02fb3e4de0afecc1aec60c7fd711deb78b46e3",
-          "md5": "96276281f66b8090f66d7fb67646253f"
+          "sha512": "16fdc03db7b87d6457f17660fa2de983f073938789bd93f358e17cc0d68c455244dbe8b95f49fa7acb0da6ffbdb08c1aa3c37c74ed7bc5600e648a0d1f35c7ae",
+          "sha256": "761bf45108679c1f93898151d677b43de7bdb3624e46827ff64f15a970c83e9d",
+          "sha1": "aaa3c730583e509e19bd666422af0fa7da2402e9",
+          "md5": "85b5dd421e790610ca81fb392a66dba1"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-box2d-desktop-v145.1.jar",
           "url": "natives-box2d-desktop-v145.1.jar",
           "size": 512159,
-          "sha512": "6ee5e91f09a52694307b4c0da1dd960543e155d92fbb52f1bfe260cf5a3b3921e732b1ef4857e5933235ea0c3941b54810de0fc9daa3053509e9d8d273100218",
-          "sha256": "3a82ea0b492a6e9ef90a65be02741eda7fc3765012eeeeab3a34757e8376a1c9",
-          "sha1": "cc02fb3e4de0afecc1aec60c7fd711deb78b46e3",
-          "md5": "96276281f66b8090f66d7fb67646253f"
+          "sha512": "16fdc03db7b87d6457f17660fa2de983f073938789bd93f358e17cc0d68c455244dbe8b95f49fa7acb0da6ffbdb08c1aa3c37c74ed7bc5600e648a0d1f35c7ae",
+          "sha256": "761bf45108679c1f93898151d677b43de7bdb3624e46827ff64f15a970c83e9d",
+          "sha1": "aaa3c730583e509e19bd666422af0fa7da2402e9",
+          "md5": "85b5dd421e790610ca81fb392a66dba1"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-box2d-desktop-v145.1-sources.jar",
           "url": "natives-box2d-desktop-v145.1-sources.jar",
           "size": 512159,
-          "sha512": "0bc0dc36ed8db0e1ca48807c2da8ba750081e58b1df25e9db4156767c2ae8d5ee0a6abc838d77856f12522571b1cd6ba2cf8eb3ea698147684893b5b1f156f28",
-          "sha256": "2f2818fe7d5a9ec29f5f3c6ea1ce8d5875198dc591a46edbfd5149dd223b166c",
-          "sha1": "f010a46cb494af94d3676b5d6f7ed64d7996c303",
-          "md5": "019e3ba0e68b90e52e1f985590feb6f4"
+          "sha512": "39eb849af3665ed83a36b70e9ee03b776be9192bbe239d4fdbe29f5865686db94877a2454a94fe56227622aafeb06604fd6a5c92accf9e59b98097603b4d8ac0",
+          "sha256": "3d4e71ed97721eed4206c523ec6e424acb442d7a2b075b392c511ddabe7ddaee",
+          "sha1": "3aa401e2e88edcefeadea2352fa4039f7fe16924",
+          "md5": "d6e4b14be84233a30c4538ee34227d63"
         }
       ]
     }
