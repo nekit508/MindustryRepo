@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.github.Anuken</groupId>
+  <groupId>com.github.Anuken.Arc</groupId>
   <artifactId>natives-freetype-desktop</artifactId>
   <versioning>
     <latest>v145</latest>

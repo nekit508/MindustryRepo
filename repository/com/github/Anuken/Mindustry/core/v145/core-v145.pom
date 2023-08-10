@@ -6,7 +6,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.Anuken</groupId>
+  <groupId>com.github.Anuken.Mindustry</groupId>
   <artifactId>core</artifactId>
   <version>v145</version>
   <dependencies>
@@ -53,7 +53,7 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.Anuken</groupId>
+      <groupId>com.github.Anuken.Mindustry</groupId>
       <artifactId>rhino</artifactId>
       <version>73a812444ac388ac2d94013b5cadc8f70b7ea027</version>
       <scope>compile</scope>
