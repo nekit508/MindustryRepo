@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-v145.jar",
           "url": "natives-v145.jar",
           "size": 261,
-          "sha512": "c1936911c291b081f1dc70c72f52bebdac8b647d1d9f0036f668d446ebb88a154a43d65693795a9126bc97d79bb41d0acac4d3ce5cd3173b3ffceca219545dcb",
-          "sha256": "7797e7896f5e17099092f948ade8ab6879affae5dfe736c0e5dd4f1a06016363",
-          "sha1": "f9c9857056327c02aa49e69e65f021cff8d394fc",
-          "md5": "6273a65fb37499bbe698dad73c06d91c"
+          "sha512": "85cead96aab8e5810aefe8000abaefd9dc8bdcef7a9e691ff5058acf04a773d6d3ab3e745807fa29212bfc5aec509f226522b86bdf8dced944c91df6d01e00ce",
+          "sha256": "9d94fa592d06d563a0fc3d94ac275579923a90cd5bf667027f434987f1c85677",
+          "sha1": "d32de7e4390df31fffb21e4639007601deb3b547",
+          "md5": "c9ad5b34ee2c0b18d27787c6f03c865d"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-v145.jar",
           "url": "natives-v145.jar",
           "size": 261,
-          "sha512": "c1936911c291b081f1dc70c72f52bebdac8b647d1d9f0036f668d446ebb88a154a43d65693795a9126bc97d79bb41d0acac4d3ce5cd3173b3ffceca219545dcb",
-          "sha256": "7797e7896f5e17099092f948ade8ab6879affae5dfe736c0e5dd4f1a06016363",
-          "sha1": "f9c9857056327c02aa49e69e65f021cff8d394fc",
-          "md5": "6273a65fb37499bbe698dad73c06d91c"
+          "sha512": "85cead96aab8e5810aefe8000abaefd9dc8bdcef7a9e691ff5058acf04a773d6d3ab3e745807fa29212bfc5aec509f226522b86bdf8dced944c91df6d01e00ce",
+          "sha256": "9d94fa592d06d563a0fc3d94ac275579923a90cd5bf667027f434987f1c85677",
+          "sha1": "d32de7e4390df31fffb21e4639007601deb3b547",
+          "md5": "c9ad5b34ee2c0b18d27787c6f03c865d"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-v145-sources.jar",
           "url": "natives-v145-sources.jar",
           "size": 261,
-          "sha512": "c1936911c291b081f1dc70c72f52bebdac8b647d1d9f0036f668d446ebb88a154a43d65693795a9126bc97d79bb41d0acac4d3ce5cd3173b3ffceca219545dcb",
-          "sha256": "7797e7896f5e17099092f948ade8ab6879affae5dfe736c0e5dd4f1a06016363",
-          "sha1": "f9c9857056327c02aa49e69e65f021cff8d394fc",
-          "md5": "6273a65fb37499bbe698dad73c06d91c"
+          "sha512": "85cead96aab8e5810aefe8000abaefd9dc8bdcef7a9e691ff5058acf04a773d6d3ab3e745807fa29212bfc5aec509f226522b86bdf8dced944c91df6d01e00ce",
+          "sha256": "9d94fa592d06d563a0fc3d94ac275579923a90cd5bf667027f434987f1c85677",
+          "sha1": "d32de7e4390df31fffb21e4639007601deb3b547",
+          "md5": "c9ad5b34ee2c0b18d27787c6f03c865d"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "backend-robovm",
     "version": "v145",
     "attributes": {
@@ -51,10 +51,10 @@
           "name": "backend-robovm-v145.jar",
           "url": "backend-robovm-v145.jar",
           "size": 52462,
-          "sha512": "df317e6548c412ba0743da9b694406960155644887a8bc687235f60fca614c42d010c2bbc969fe314f6e2bd76a6b6c66877bfb58ce3926f0c59e1984757052f8",
-          "sha256": "8d3f2a29a23e989a1a2652257e2be81d0e7cf1a087f0d65b5b5f6b550a4a01ec",
-          "sha1": "5efbd6fa521681cc9007d0c0424aef7303d5023e",
-          "md5": "ad12e5388f791c2731d0c3c69f05df7b"
+          "sha512": "5b24ded03427341aed88a2d104be8baef1067a910a402ae9479d006fb564b0f9ea206510632398b8288494eb2c4de251c13dd2d72f988592995518009e5e1042",
+          "sha256": "ef4e9bbff0fb6c6543468bce5497f0ca90ba0b48e71c427485a4d2b4b2ef2e03",
+          "sha1": "25b417469bcfdfaaa16db33e4e704589a42c1ee6",
+          "md5": "391d54017609980fbd8e14ea54292b24"
         }
       ]
     },
@@ -95,10 +95,10 @@
           "name": "backend-robovm-v145.jar",
           "url": "backend-robovm-v145.jar",
           "size": 52462,
-          "sha512": "df317e6548c412ba0743da9b694406960155644887a8bc687235f60fca614c42d010c2bbc969fe314f6e2bd76a6b6c66877bfb58ce3926f0c59e1984757052f8",
-          "sha256": "8d3f2a29a23e989a1a2652257e2be81d0e7cf1a087f0d65b5b5f6b550a4a01ec",
-          "sha1": "5efbd6fa521681cc9007d0c0424aef7303d5023e",
-          "md5": "ad12e5388f791c2731d0c3c69f05df7b"
+          "sha512": "5b24ded03427341aed88a2d104be8baef1067a910a402ae9479d006fb564b0f9ea206510632398b8288494eb2c4de251c13dd2d72f988592995518009e5e1042",
+          "sha256": "ef4e9bbff0fb6c6543468bce5497f0ca90ba0b48e71c427485a4d2b4b2ef2e03",
+          "sha1": "25b417469bcfdfaaa16db33e4e704589a42c1ee6",
+          "md5": "391d54017609980fbd8e14ea54292b24"
         }
       ]
     },
@@ -115,10 +115,10 @@
           "name": "backend-robovm-v145-sources.jar",
           "url": "backend-robovm-v145-sources.jar",
           "size": 24659,
-          "sha512": "091bb0c0f74aed24fdce36024f126d8b274b140090d70a669bb67c025564b1e761fcb24c35c2e896d0027b656059d5a39d2e3b365a380eff70580c83d0a45114",
-          "sha256": "6936d76a3e5481387da2e4d9704446bf434fa5ec4c694662d567f7849d147446",
-          "sha1": "cc569df545ff0208bc1ea281c4a838dca5c63d72",
-          "md5": "71a998111517a08d93b45ca30864196b"
+          "sha512": "3fa2a431831250327a33bffa10aa4a0b269fb2b80db258f3bffe240adc23815f9e5512b97699bef9887d11792112484cd16743c21c66872cc06fe0b2136e36d0",
+          "sha256": "45fa8f15a0f04bc711a67b81e4e9d9357110bff715da8c74163a6c253c0a8508",
+          "sha1": "9b8d127ca4527ef6d2c9a4710e4e814d7e0f755e",
+          "md5": "ef87e8493c47383b2f841eff04b4b03c"
         }
       ]
     }

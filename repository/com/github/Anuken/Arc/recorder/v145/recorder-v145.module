@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "recorder",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "recorder-v145.jar",
           "url": "recorder-v145.jar",
           "size": 5599,
-          "sha512": "41c553f395d1dbc1b5b883e9f4fb0220c9cdf9b560572a7abbc1d626ac5c4382a712a5b6c85c10bd2f440b259c0e9b99c4294f077c90e8080b9ee1f9cb1ed49e",
-          "sha256": "14c542781ee0351609f1f2b863eb51adb1ee94b6e0f3fffe2a563e865321e26e",
-          "sha1": "b2115dbf63713dab3bd5f7672bb1b42aff82a910",
-          "md5": "50aff62ff21aa2d875f1881bf5ba0727"
+          "sha512": "cbb5ef28646dd3a713b11e703c24710bf434cc085baf28d4b5e905468712adbad7fb5a1ef62f933057e98a8f43e2058c5dbda809884d153299349ce2810c3775",
+          "sha256": "d825f227d2c2808acc3bc638853c03ecd9dacea04a2bb939a55c4ddc28176a7b",
+          "sha1": "983817c4e3689f0abf44eddbfaf599bdb18dcb07",
+          "md5": "037e72ee73a197c437f9469883a08e10"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "recorder-v145.jar",
           "url": "recorder-v145.jar",
           "size": 5599,
-          "sha512": "41c553f395d1dbc1b5b883e9f4fb0220c9cdf9b560572a7abbc1d626ac5c4382a712a5b6c85c10bd2f440b259c0e9b99c4294f077c90e8080b9ee1f9cb1ed49e",
-          "sha256": "14c542781ee0351609f1f2b863eb51adb1ee94b6e0f3fffe2a563e865321e26e",
-          "sha1": "b2115dbf63713dab3bd5f7672bb1b42aff82a910",
-          "md5": "50aff62ff21aa2d875f1881bf5ba0727"
+          "sha512": "cbb5ef28646dd3a713b11e703c24710bf434cc085baf28d4b5e905468712adbad7fb5a1ef62f933057e98a8f43e2058c5dbda809884d153299349ce2810c3775",
+          "sha256": "d825f227d2c2808acc3bc638853c03ecd9dacea04a2bb939a55c4ddc28176a7b",
+          "sha1": "983817c4e3689f0abf44eddbfaf599bdb18dcb07",
+          "md5": "037e72ee73a197c437f9469883a08e10"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "recorder-v145-sources.jar",
           "url": "recorder-v145-sources.jar",
           "size": 2819,
-          "sha512": "baa95aac8f955527b72d3857e5aea2ec23befb6c2beb1cd92d54348009b04aeff7cafe110d3828ae304158fbc87d75169f551f1d0ac2ff03e56a80acd331a3e7",
-          "sha256": "8dd7ab4ef8e2fe4eb589c5e258ab2a3311023e3259005b2fa7eaf3acdddcbaf4",
-          "sha1": "1b702ed730e46b31470f70b6afa0752e2b97f0fe",
-          "md5": "c7c47ee942e719e1357ce11523ab2ab3"
+          "sha512": "28e235b2839795c130ef5a1147b30fead5347da0fc0f3836cf4b065976760b3d669f314e6a23afa55c6b01994832e99739fdcfa1a8a530762400e95e583210c9",
+          "sha256": "63ded6f1140922f3cc6253d63c5c826c884a39bd1042b043f5d927e4ae515aee",
+          "sha1": "72b007d0c8f36fb8ed1fd7361ef242be73856264",
+          "md5": "589ef2fbfc666c84eac472106662b20f"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "backend-android",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "backend-android-v145.jar",
           "url": "backend-android-v145.jar",
           "size": 68308,
-          "sha512": "3260c187cee11330c620f9a9d8ae92b2559aaee23821ac04ca2be09d95bccfd9cb8b60c063f5abd65d042eb23b82194db7e19386aac1742d4e2d801c3b1d1c97",
-          "sha256": "28a71cf0a6b6fc9db726367bf0d894baccc38d840868bff2dfe7835e14e331ad",
-          "sha1": "4d5ec022d2d41aa9ec93df0fc62ce121e55d4d34",
-          "md5": "897d9ee85a176888b96e0511e49e6287"
+          "sha512": "fae733b88d02e1b188c78affdcad19b4ee39bbadc78bc1802cd9d5521baeffec8979b9099fe7973e175c2567ee1605ec6b39d67e7f520b5d27f779705d0e4ac5",
+          "sha256": "0a91ebd32f41c151c7f99fd14ff72335bbfacc7a5e1f83a252f7d901621a513a",
+          "sha1": "d842913c20df6fc26e3ed82b152c1845f72b29c0",
+          "md5": "7dd5b3d5c769c06c1526c487b7feda57"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "backend-android-v145.jar",
           "url": "backend-android-v145.jar",
           "size": 68308,
-          "sha512": "3260c187cee11330c620f9a9d8ae92b2559aaee23821ac04ca2be09d95bccfd9cb8b60c063f5abd65d042eb23b82194db7e19386aac1742d4e2d801c3b1d1c97",
-          "sha256": "28a71cf0a6b6fc9db726367bf0d894baccc38d840868bff2dfe7835e14e331ad",
-          "sha1": "4d5ec022d2d41aa9ec93df0fc62ce121e55d4d34",
-          "md5": "897d9ee85a176888b96e0511e49e6287"
+          "sha512": "fae733b88d02e1b188c78affdcad19b4ee39bbadc78bc1802cd9d5521baeffec8979b9099fe7973e175c2567ee1605ec6b39d67e7f520b5d27f779705d0e4ac5",
+          "sha256": "0a91ebd32f41c151c7f99fd14ff72335bbfacc7a5e1f83a252f7d901621a513a",
+          "sha1": "d842913c20df6fc26e3ed82b152c1845f72b29c0",
+          "md5": "7dd5b3d5c769c06c1526c487b7feda57"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "backend-android-v145-sources.jar",
           "url": "backend-android-v145-sources.jar",
           "size": 36097,
-          "sha512": "3745216b11769d8e49cf3d43ec08c0d7700277f52a93ecc1dda21acc1fd29eec9ab1f3db61aa54143e409f1b3d877c4025f591b1b0a4eb6264a35262952f52ce",
-          "sha256": "fb321b00d80e44cbc158fc03bbc14e6f03eeb9af5d9ece35c2fc2890f3b29a7f",
-          "sha1": "ed26f8b7c916c99d1fa613bd18f6258285287247",
-          "md5": "e17c804b9a434502b83ead5ec5cd4bcc"
+          "sha512": "48904aa47ba49216abda400cdf7655ff72c19f6535eab78c03681390046deeabbe822a8a29a75533727ef18be817aa24f7492f7447566f73f99d853fa1d9f4cf",
+          "sha256": "1d5350d9e5ebddcf19f7e84191a787168cb11bcfa8cd32fe1e61141c22807fd7",
+          "sha1": "82856d030df9cd3288864c1637b9900907fa39c2",
+          "md5": "cce255e6adeca8ee28787b68755be9e9"
         }
       ]
     }

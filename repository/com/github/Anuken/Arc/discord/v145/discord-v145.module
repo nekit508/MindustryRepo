@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "discord",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "discord-v145.jar",
           "url": "discord-v145.jar",
           "size": 15193,
-          "sha512": "5e5f02b1ae022ce5fe970d9772bbfae13b67101df1911aaad66d94eb67c5bfe4fc6c61ae52178dddeec226da8757f9c7873db50a6d6171036cbdb95da854eefc",
-          "sha256": "1d4d09a9855205214352b41838070c8d8db9975f47325b6e7afa43ed3de77de1",
-          "sha1": "53643433ae86c6882b9c7d04f573d9abc21d2b73",
-          "md5": "25a417d19412ef71deacc555c043c0c7"
+          "sha512": "8258a13ead288fa988e5fc7fa32c08253fea0e634c18df30767b9f3cfc50ac173ea2a4a6aac4473e255cb43dc5dc2d04e112fe614af4c4d46ec412cc9f7c0c5b",
+          "sha256": "0f5148946e3768e8884d2c178ff4d4364574da94d7dccfa3b3221b8cb7f83494",
+          "sha1": "7cc4dbb408c206785cd73eab7ecb81b6c4c8a977",
+          "md5": "bd5e4e7f20e8cda9abd5080f9a75e2a6"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "discord-v145.jar",
           "url": "discord-v145.jar",
           "size": 15193,
-          "sha512": "5e5f02b1ae022ce5fe970d9772bbfae13b67101df1911aaad66d94eb67c5bfe4fc6c61ae52178dddeec226da8757f9c7873db50a6d6171036cbdb95da854eefc",
-          "sha256": "1d4d09a9855205214352b41838070c8d8db9975f47325b6e7afa43ed3de77de1",
-          "sha1": "53643433ae86c6882b9c7d04f573d9abc21d2b73",
-          "md5": "25a417d19412ef71deacc555c043c0c7"
+          "sha512": "8258a13ead288fa988e5fc7fa32c08253fea0e634c18df30767b9f3cfc50ac173ea2a4a6aac4473e255cb43dc5dc2d04e112fe614af4c4d46ec412cc9f7c0c5b",
+          "sha256": "0f5148946e3768e8884d2c178ff4d4364574da94d7dccfa3b3221b8cb7f83494",
+          "sha1": "7cc4dbb408c206785cd73eab7ecb81b6c4c8a977",
+          "md5": "bd5e4e7f20e8cda9abd5080f9a75e2a6"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "discord-v145-sources.jar",
           "url": "discord-v145-sources.jar",
           "size": 4401,
-          "sha512": "fcb9fb8d3ce422e418234d53473b36de866c01399b48e0d71220ce4b57c155f07caf1f2300b05e468d97d451dfd76437f3992e29601dd924085ca72ec72761ea",
-          "sha256": "76e4f397fab3d87d4b0bcb6f7e6740758c9c6d4c12730ecf20a1e609d2f28bc7",
-          "sha1": "ac66e3ce63ca77eafd07801d3dc537d591c6cc8b",
-          "md5": "01afeac53da1b2c81940c11c44d21161"
+          "sha512": "6d393d8ca9e658bdefac7d4ae33fb8f12bd6ece774a14356696f742082b41dd0e792f3a12c25b562996f61e7ea4f5a4c89e3625d38bf9703f838471bc94b90ad",
+          "sha256": "dbc87f05bac2ccf34659692a0fe1c5e2bd5e8807b564b812b8d3da0f705e72eb",
+          "sha1": "2b5ed1fe288dfc8adfd4ec137724aaccc2144d77",
+          "md5": "0b2f377087bbf53168ea38f3ce4439f7"
         }
       ]
     }

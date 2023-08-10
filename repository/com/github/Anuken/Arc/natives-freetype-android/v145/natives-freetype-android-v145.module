@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives-freetype-android",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-freetype-android-v145.jar",
           "url": "natives-freetype-android-v145.jar",
           "size": 945221,
-          "sha512": "e9b30c8602482d3bf2ce2cdb972dbf95e806eb0054e6c89795c1e8d3c068445fffd308ecb0908ea6ee4ce369fffe0893b9ce1aa3734c0a40003d1a6cbead866b",
-          "sha256": "f279d616e42ec5ad51ad00f65b0465844d579eaaf051441ec3306a5b4c553bf3",
-          "sha1": "cbe2e571af53c32c5f45aea3cd2123c983d92557",
-          "md5": "8140d52fd735386e3e4f7aaf5f07aece"
+          "sha512": "507a6c63642bf9a1d2874620acbc69c42ea3c6924932fa6f3bf9ae323b85cf8c5b753abfebd9aa9887f7d74e2c703e87745a862da22986621c0b664a9d521ed9",
+          "sha256": "1a4a710b584017d0d367497b44088a0ac9a736aef19a6442a7c0e4b45091a4b6",
+          "sha1": "44f12705f843a20227c1cf163a77e46aca5561f6",
+          "md5": "88d3ac1b2f9921f3e13937ae6a92bf7b"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-freetype-android-v145.jar",
           "url": "natives-freetype-android-v145.jar",
           "size": 945221,
-          "sha512": "e9b30c8602482d3bf2ce2cdb972dbf95e806eb0054e6c89795c1e8d3c068445fffd308ecb0908ea6ee4ce369fffe0893b9ce1aa3734c0a40003d1a6cbead866b",
-          "sha256": "f279d616e42ec5ad51ad00f65b0465844d579eaaf051441ec3306a5b4c553bf3",
-          "sha1": "cbe2e571af53c32c5f45aea3cd2123c983d92557",
-          "md5": "8140d52fd735386e3e4f7aaf5f07aece"
+          "sha512": "507a6c63642bf9a1d2874620acbc69c42ea3c6924932fa6f3bf9ae323b85cf8c5b753abfebd9aa9887f7d74e2c703e87745a862da22986621c0b664a9d521ed9",
+          "sha256": "1a4a710b584017d0d367497b44088a0ac9a736aef19a6442a7c0e4b45091a4b6",
+          "sha1": "44f12705f843a20227c1cf163a77e46aca5561f6",
+          "md5": "88d3ac1b2f9921f3e13937ae6a92bf7b"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-freetype-android-v145-sources.jar",
           "url": "natives-freetype-android-v145-sources.jar",
           "size": 945221,
-          "sha512": "b4fa4f22c7a388838b54598708b7c0ae76e6b01e909be80d4e2dfb2327b3fc45a2915d149c5c81a17b5bd9eab908f04f157d60958184f3ea7a94d32ffb6b8f0d",
-          "sha256": "e65d6db7d9bb13b282421dd6f2ca79eb84b65288a298a24703fb9b7bf8088206",
-          "sha1": "079ab21f82e1533032942d03788a3c906d53969f",
-          "md5": "02eb79faf4b8a6e547af943805cf3947"
+          "sha512": "cb29f0881be384cf60fec325a69d4ca25a6a0ae63815753ef25cddb524a4f96d8429ed6b752197b42915e2dfd12f2f61df505d4ad53c4d889d4826bab46d3e93",
+          "sha256": "2780ffb71e39613a34f2dcefe68cc4d528d13958ea4bad63c7fafb67b48152cf",
+          "sha1": "09a4672791b43339013f193fbd4a4b0b05058e72",
+          "md5": "688b267f22344b140e3fd5cb3183b186"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "box2d",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "box2d-v145.jar",
           "url": "box2d-v145.jar",
           "size": 58093,
-          "sha512": "b4c8c074dee50ccdfe2f0b0eae21575b9d24e0d4a21044b8b724006ce733475fc1c45e1e436aa41c5f0310075f88b75632cae7e671683c0737dba63d8e5d68ff",
-          "sha256": "82d72aa8b0a6bb455ff2b831b691ba8b0bea9ea2297631473f31a71bf31737d5",
-          "sha1": "c12e5336afd928b5b77f9233556320c05323002e",
-          "md5": "e9713f47240296a57fcbde6fc792987f"
+          "sha512": "3d80c74ae9e5d10b6aadee2ed87e59b092c0c484fa1dc644b462153c27cbe9f8481eaef5b3ec52b9e9228667c34257a5f341c25b962a40aed97b724b91606471",
+          "sha256": "1e9f2bb1896527a7420c95c92bd2eb01a47484c839a8360b03e8de8782cf7e71",
+          "sha1": "aa044f9d0434a106909b253fe6d6aafe66ce4f98",
+          "md5": "bdc23bfcc3fd5ac4b3f6aba91218a3e8"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "box2d-v145.jar",
           "url": "box2d-v145.jar",
           "size": 58093,
-          "sha512": "b4c8c074dee50ccdfe2f0b0eae21575b9d24e0d4a21044b8b724006ce733475fc1c45e1e436aa41c5f0310075f88b75632cae7e671683c0737dba63d8e5d68ff",
-          "sha256": "82d72aa8b0a6bb455ff2b831b691ba8b0bea9ea2297631473f31a71bf31737d5",
-          "sha1": "c12e5336afd928b5b77f9233556320c05323002e",
-          "md5": "e9713f47240296a57fcbde6fc792987f"
+          "sha512": "3d80c74ae9e5d10b6aadee2ed87e59b092c0c484fa1dc644b462153c27cbe9f8481eaef5b3ec52b9e9228667c34257a5f341c25b962a40aed97b724b91606471",
+          "sha256": "1e9f2bb1896527a7420c95c92bd2eb01a47484c839a8360b03e8de8782cf7e71",
+          "sha1": "aa044f9d0434a106909b253fe6d6aafe66ce4f98",
+          "md5": "bdc23bfcc3fd5ac4b3f6aba91218a3e8"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "box2d-v145-sources.jar",
           "url": "box2d-v145-sources.jar",
           "size": 52592,
-          "sha512": "16dc9f3e40f59d3d1b27716d45bda8458a53af9bf5ac1cc0c2d25c9e952893bb05352e3a7244b8f1c83e780f01cd4991c6434c22354b8d4efc8bb7a8abdfcc82",
-          "sha256": "c51624ef2ba09d1a1643d85f7ddad53e29bebb8a7311ca27746d5944022164de",
-          "sha1": "de5ee50232e76b94a605da36393738f5bd503a7a",
-          "md5": "4ec6b9ffc4869df7a610da8814b82c24"
+          "sha512": "6237646ee2a8abd5e21fb54469e30707064a56d68936044ae224a37c186827e1e7ded0e4d54ae05d822c4a7a4b2e46ba1da5767c5cd161ecbe78ff0dd7f78bc7",
+          "sha256": "f9b2a249a57641bd93a1f4e213166f6ca506a5599b856fc5c6e29a4037a00cba",
+          "sha1": "cf483c693d682635ca671d0755911b055fc51075",
+          "md5": "2e2e1606b12d2b1b00982a9cacaf4665"
         }
       ]
     }

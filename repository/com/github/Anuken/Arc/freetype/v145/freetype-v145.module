@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "freetype",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "freetype-v145.jar",
           "url": "freetype-v145.jar",
           "size": 34423,
-          "sha512": "6d57e32a19b65790c70bc476a1c10d926a07bb876fa58770bf5ff664afe22c36aab4c5b52dd911a37e8cd207e85ada4a537475571af5ce1214daca5329178178",
-          "sha256": "c2ef29feba3ef66256893073eeafa5f6002f01bb4bdcfa1a12fa2353f3c56e80",
-          "sha1": "24a3bd9f84772aa8c307efd9463db05eb931d59f",
-          "md5": "3ffc6d35131c4b399661f95b57d4ff95"
+          "sha512": "3c4ef3f794edb5361de7cc1e05e9381df93fb9054ead1e936540a6f98998c14eb5e30c2ef85d7317af82b42b9bdea661c918cf556e55d3faeed177a8642843f2",
+          "sha256": "3b499cb9e57bb180ae2e3e05a8bf81c692f5edb398d788c6cd2308bdc3269c29",
+          "sha1": "da293a50a424f9a57165ec6a9380eaa429f0f11a",
+          "md5": "f743aebde52bd32eb067cd27ed393f83"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "freetype-v145.jar",
           "url": "freetype-v145.jar",
           "size": 34423,
-          "sha512": "6d57e32a19b65790c70bc476a1c10d926a07bb876fa58770bf5ff664afe22c36aab4c5b52dd911a37e8cd207e85ada4a537475571af5ce1214daca5329178178",
-          "sha256": "c2ef29feba3ef66256893073eeafa5f6002f01bb4bdcfa1a12fa2353f3c56e80",
-          "sha1": "24a3bd9f84772aa8c307efd9463db05eb931d59f",
-          "md5": "3ffc6d35131c4b399661f95b57d4ff95"
+          "sha512": "3c4ef3f794edb5361de7cc1e05e9381df93fb9054ead1e936540a6f98998c14eb5e30c2ef85d7317af82b42b9bdea661c918cf556e55d3faeed177a8642843f2",
+          "sha256": "3b499cb9e57bb180ae2e3e05a8bf81c692f5edb398d788c6cd2308bdc3269c29",
+          "sha1": "da293a50a424f9a57165ec6a9380eaa429f0f11a",
+          "md5": "f743aebde52bd32eb067cd27ed393f83"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "freetype-v145-sources.jar",
           "url": "freetype-v145-sources.jar",
           "size": 16375,
-          "sha512": "1c0379764c646a7563eccbab511b8e9eb4df30f2a76418be5cb7a57ec640ba1e76299c2be852384efb104e594d7632503c0a4a2688944bd9c350bf554966a102",
-          "sha256": "dd612d30a7b3f417857678f03af31879e78788ecc5b0ba699f40a14a8d0f18e8",
-          "sha1": "83769ea39b5483848e25ac821a698f8fd129b09f",
-          "md5": "99507308d5cf89d1226e56e75f088939"
+          "sha512": "81437a59e65e5d9c8595c9ec8eee15cee8a33e3994fd5cc2d709fbbc789ce813d4fe191742c101236f507750d170dc4948ccc316ba8889b69a195e78cc2ca7be",
+          "sha256": "3291e9f3399a9bec2756747a404ed8b60c5c5916440f831d1c18ec83530ae26e",
+          "sha1": "4dd84eec8cdab7ae54651926999c1c441fa7c7fc",
+          "md5": "ce72d0fbf2b0178960badb42bd3dfa39"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives-desktop",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-desktop-v145.jar",
           "url": "natives-desktop-v145.jar",
           "size": 1687632,
-          "sha512": "f47ca386b28f259168954231b609f623afd4d8b603e2e85ab376406d8f846eed517276f53acda4887212020f02b7ea85f36cbaddc5328429750ed21c954447ae",
-          "sha256": "810d3b9c30ea7855a18671bdcdf90da48801f4b8dbc0ab5d8affa8d7bccf5e69",
-          "sha1": "40a1cc5c61c66088debfa3aeca5c0c6e4e8af592",
-          "md5": "47a7d214fe7bd22e03c9da8d0bba9e9e"
+          "sha512": "17083a6488778bfefd6c28e4a47e13395806a8e9f85deeab24b887cde5fcdded1902574ff8e58996e65b70147ea368dbfbf65dd804c455037ee4d5cfc7266639",
+          "sha256": "622d8bbf7abac88329a88960925e5799c61152791f11882e5667b3dab2a9a636",
+          "sha1": "31c6279be282d8d4499055e52b6e11211d7c9cc2",
+          "md5": "8ea7f165d0a18897960d96cd66976bab"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-desktop-v145.jar",
           "url": "natives-desktop-v145.jar",
           "size": 1687632,
-          "sha512": "f47ca386b28f259168954231b609f623afd4d8b603e2e85ab376406d8f846eed517276f53acda4887212020f02b7ea85f36cbaddc5328429750ed21c954447ae",
-          "sha256": "810d3b9c30ea7855a18671bdcdf90da48801f4b8dbc0ab5d8affa8d7bccf5e69",
-          "sha1": "40a1cc5c61c66088debfa3aeca5c0c6e4e8af592",
-          "md5": "47a7d214fe7bd22e03c9da8d0bba9e9e"
+          "sha512": "17083a6488778bfefd6c28e4a47e13395806a8e9f85deeab24b887cde5fcdded1902574ff8e58996e65b70147ea368dbfbf65dd804c455037ee4d5cfc7266639",
+          "sha256": "622d8bbf7abac88329a88960925e5799c61152791f11882e5667b3dab2a9a636",
+          "sha1": "31c6279be282d8d4499055e52b6e11211d7c9cc2",
+          "md5": "8ea7f165d0a18897960d96cd66976bab"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-desktop-v145-sources.jar",
           "url": "natives-desktop-v145-sources.jar",
           "size": 1687632,
-          "sha512": "fd50cf51e98efefb79a18fcd24cc729e7f0f7e314ac48b07e1f5758c59922c8b0e3bd760787e2f7e174cc7ffcf6ce59b9fd3ef6858f592a026df6fa632374366",
-          "sha256": "01822f59b443e1bcadf30cb218ec5648171c6c5d1a7b92f4945e2e24e3680298",
-          "sha1": "6a56fd286ede9c260362575e78dea10998142b89",
-          "md5": "7aab88be4273be4ebe311f9ed8836c48"
+          "sha512": "1d12114e8c35824ee6c7795e2d93111e005d9ae7da76c393b0ce49e36464937c1d29b5bf92c30312761bdf2bc90f8fb1415e989a5a5be7e8a780bcf86af30b3d",
+          "sha256": "38f8dd3548610096b944be6fd676708fd8a3df6959a21a0dc908c7efc0f38c3c",
+          "sha1": "8cb3b33de2f2de7756146c860b7cbc9c29640f14",
+          "md5": "6ba386e6a36a825d8ee0cce241f0cf7f"
         }
       ]
     }

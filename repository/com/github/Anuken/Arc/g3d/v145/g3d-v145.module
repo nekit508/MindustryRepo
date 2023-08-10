@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "g3d",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "g3d-v145.jar",
           "url": "g3d-v145.jar",
           "size": 45478,
-          "sha512": "3cb44c968d89ee52b962a0324a14991d6663060eef44519cd5aba49a8a6c4ec8ba754afcba7a8e908cf656c778b1ff60c63a0d49fc9d2c0d04e1c3e2a3ebd5c6",
-          "sha256": "8fa446fc9e2667d561b82aec93f190405171dd47e604e5bff5457f43082db42c",
-          "sha1": "69df97e81d9cf1c702a51ed8460e2d8a6f05d231",
-          "md5": "56dc8c478327af623c2aa4cdd5d78e83"
+          "sha512": "0d9bba27e0f58e799804587ac246e084a35898ade413c72dff954ae3af4975662a3bbdf8eaef9eaed11f527e277e312863c4d7ae7538724e02336acc22a926b1",
+          "sha256": "50a5305c7cecbdb4c7a19c761e2ec703ced2bc56836511575578b7fa0501d7ad",
+          "sha1": "3003277f54622cee7052292fa46ed0d39eb81356",
+          "md5": "f997ba549f4f3ad590fa392b87cfdd56"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "g3d-v145.jar",
           "url": "g3d-v145.jar",
           "size": 45478,
-          "sha512": "3cb44c968d89ee52b962a0324a14991d6663060eef44519cd5aba49a8a6c4ec8ba754afcba7a8e908cf656c778b1ff60c63a0d49fc9d2c0d04e1c3e2a3ebd5c6",
-          "sha256": "8fa446fc9e2667d561b82aec93f190405171dd47e604e5bff5457f43082db42c",
-          "sha1": "69df97e81d9cf1c702a51ed8460e2d8a6f05d231",
-          "md5": "56dc8c478327af623c2aa4cdd5d78e83"
+          "sha512": "0d9bba27e0f58e799804587ac246e084a35898ade413c72dff954ae3af4975662a3bbdf8eaef9eaed11f527e277e312863c4d7ae7538724e02336acc22a926b1",
+          "sha256": "50a5305c7cecbdb4c7a19c761e2ec703ced2bc56836511575578b7fa0501d7ad",
+          "sha1": "3003277f54622cee7052292fa46ed0d39eb81356",
+          "md5": "f997ba549f4f3ad590fa392b87cfdd56"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "g3d-v145-sources.jar",
           "url": "g3d-v145-sources.jar",
           "size": 35268,
-          "sha512": "f5928ccf63833b99b83b2563f473f45751a7645ff323e287a04b343623a2e1a24cda889f21af712364f2eb320b352d4be86137b4fde23ab8b99bb2aa37e81cba",
-          "sha256": "d1c655221679ee60c0be71a7d739ded8a0941b8bbaedd0469a6060d512a41d53",
-          "sha1": "95478f8d71a4de431ec0eab9198e35b41785d1e8",
-          "md5": "2693dd9e56cc5dce0430120e3207a654"
+          "sha512": "0cc85ff6f68fe08878a68a0b52edaef310a1edd8f5c4899c3b7f241b99275231ff76cee1ebb59204ba9d94709c82f818bae4d656d2db7ac315a5083f1c39a830",
+          "sha256": "17068ea24b65760af342cf837d1d82cdcf828a3649085be38db3ec803a0d4161",
+          "sha1": "c0b1cc6370dec9640c4daa694297bec276f6094e",
+          "md5": "89dc54c85c8dcaf31903fdc85f990b1a"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Mindustry",
     "module": "server",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "server-v145.jar",
           "url": "server-v145.jar",
           "size": 32811,
-          "sha512": "622398cbff0209821fe9472bfe6adccc26abb1038cbee07de84e6538b242ee2ad47634c685a8779901381c92a3cc9a558791575612b230ecf3fd39dcae3ec0e0",
-          "sha256": "660a24df76037347dbaa43a6bd54d8d24c7b98ad21c75d9d285c4cad6f37acdc",
-          "sha1": "42642958d4d7f05acfd39c63dbefdfb874aee762",
-          "md5": "97d50375c82e49c830877220db4ebfd0"
+          "sha512": "800fad1cc3acd064f3ca6668db88e1802b8d13a130abaec6f7fce83540677db9a60cc0e2239adeee5c52b0720a634141381a1e7c3682f00864bd4dbff6dc4f15",
+          "sha256": "b33d0a1e5ec1f28602d599c44c8473c06692cd9c58bb99a8b618b57494dd428e",
+          "sha1": "908cde0ae37f5f59287e96c7d30bda729b9ece4e",
+          "md5": "2ce37e96f7a31aeaafc2a8b3e5f93c86"
         }
       ]
     },
@@ -46,7 +46,7 @@
       },
       "dependencies": [
         {
-          "group": "com.github.Anuken",
+          "group": "com.github.Anuken.Mindustry",
           "module": "core",
           "version": {
             "requires": "v145"
@@ -65,30 +65,10 @@
           "name": "server-v145.jar",
           "url": "server-v145.jar",
           "size": 32811,
-          "sha512": "622398cbff0209821fe9472bfe6adccc26abb1038cbee07de84e6538b242ee2ad47634c685a8779901381c92a3cc9a558791575612b230ecf3fd39dcae3ec0e0",
-          "sha256": "660a24df76037347dbaa43a6bd54d8d24c7b98ad21c75d9d285c4cad6f37acdc",
-          "sha1": "42642958d4d7f05acfd39c63dbefdfb874aee762",
-          "md5": "97d50375c82e49c830877220db4ebfd0"
-        }
-      ]
-    },
-    {
-      "name": "javadocElements",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "javadoc",
-        "org.gradle.usage": "java-runtime"
-      },
-      "files": [
-        {
-          "name": "server-v145-javadoc.jar",
-          "url": "server-v145-javadoc.jar",
-          "size": 106894,
-          "sha512": "432f6ef314038247c7fe2996b9a7411aacfbd9181dfc9fe296d5b50c777562732f0802b482cc6966d7631c1db7502daf16b679ce01d8e1eae461871ddb998e7f",
-          "sha256": "e73f1c5f4ee5091a7f497a12e466676194fa96bee2f237324a8731346967016e",
-          "sha1": "0adc43b962d6eb147876b1128704c149675ef054",
-          "md5": "b9a068c8d1834a88b37c4beea09c42d5"
+          "sha512": "800fad1cc3acd064f3ca6668db88e1802b8d13a130abaec6f7fce83540677db9a60cc0e2239adeee5c52b0720a634141381a1e7c3682f00864bd4dbff6dc4f15",
+          "sha256": "b33d0a1e5ec1f28602d599c44c8473c06692cd9c58bb99a8b618b57494dd428e",
+          "sha1": "908cde0ae37f5f59287e96c7d30bda729b9ece4e",
+          "md5": "2ce37e96f7a31aeaafc2a8b3e5f93c86"
         }
       ]
     },
@@ -105,10 +85,10 @@
           "name": "server-v145-sources.jar",
           "url": "server-v145-sources.jar",
           "size": 12293,
-          "sha512": "588089b9ce5dc04a66591b74729172cd21b834577401cc19a87c07902cc32f0db78d2a7334f7b53d938e5437e3fa67aa6ecbd127fd05c86eb032dd3f5e32af45",
-          "sha256": "b42fd471175b5b6edaddf407e914590951507ba0a0597057c73df3ebc0d08d24",
-          "sha1": "f9c183ac80a8b1aa30f63c4553a71713669c2c6b",
-          "md5": "29477043bc367e19f4fc808590f7ee73"
+          "sha512": "720272d4902d715c09b420f96501683141bf5c804fb84fa0aa6c92862e6714483d2d69e6c413589471a4a367c8f7ef7e8600d9b3d337e330e2c0a77cc1fffc9a",
+          "sha256": "678a4a08f14e526f32ee511ebe832d399ac63909bd7a43276990078a8e7e0bdd",
+          "sha1": "32a2c55626d7456bb1af9f66efb20074fb656cf7",
+          "md5": "1448cad8c79782490fc5c5a4d38f8eab"
         }
       ]
     }

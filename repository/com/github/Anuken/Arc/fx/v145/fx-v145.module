@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "fx",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "fx-v145.jar",
           "url": "fx-v145.jar",
           "size": 62586,
-          "sha512": "8de0100a2ff341477ba95feeca82d8a10c5b2a7cb77dbd9fdd5a58a82f2951740cd251654ad495409c63776d699535ed71d2db256850664fad406a5ce5c1a749",
-          "sha256": "84c848df3788afdcf2ee0d0a7638695a863de6d71be0e53031b1fa32da848371",
-          "sha1": "82d3747ff70387e773bd89f22ebeaacff0ca34dd",
-          "md5": "5c2a99ebd872dd67421b62dbc62662bd"
+          "sha512": "407cb4ca81f2f02533543693a0004a29cacdf8f59f4870a6a1653f763c78ee1b015792c35d70d08e81d7f345fa9845ed74fee4d07296364078cee3d8097cf913",
+          "sha256": "42d23eac7fa1907b368afb789ca387ad29a63d080c4bfc2ce9f7d3a4b2a2ddf1",
+          "sha1": "1706f4db8ef1f6fc22152586fe4a6a32f85a23c2",
+          "md5": "0a0f3dd632d1f07abe6d8744d1fde185"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "fx-v145.jar",
           "url": "fx-v145.jar",
           "size": 62586,
-          "sha512": "8de0100a2ff341477ba95feeca82d8a10c5b2a7cb77dbd9fdd5a58a82f2951740cd251654ad495409c63776d699535ed71d2db256850664fad406a5ce5c1a749",
-          "sha256": "84c848df3788afdcf2ee0d0a7638695a863de6d71be0e53031b1fa32da848371",
-          "sha1": "82d3747ff70387e773bd89f22ebeaacff0ca34dd",
-          "md5": "5c2a99ebd872dd67421b62dbc62662bd"
+          "sha512": "407cb4ca81f2f02533543693a0004a29cacdf8f59f4870a6a1653f763c78ee1b015792c35d70d08e81d7f345fa9845ed74fee4d07296364078cee3d8097cf913",
+          "sha256": "42d23eac7fa1907b368afb789ca387ad29a63d080c4bfc2ce9f7d3a4b2a2ddf1",
+          "sha1": "1706f4db8ef1f6fc22152586fe4a6a32f85a23c2",
+          "md5": "0a0f3dd632d1f07abe6d8744d1fde185"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "fx-v145-sources.jar",
           "url": "fx-v145-sources.jar",
           "size": 40350,
-          "sha512": "6ce18afac98431c68a25a833c589520ffc5cc06e00c2af7dd3f48c490abe5e50a29b7bd26c802d66a24ba9801a8f433b8ab40108076f913298f5b576fa0e26f8",
-          "sha256": "c5ae35f04d54a39ecba9a86c347199b96fd6b96977305bbf228f675297ed08ef",
-          "sha1": "40ee8610d76ae7d7226a6e8013a1dfd7d7860d98",
-          "md5": "f5724f3dd5e1588639985340579841dc"
+          "sha512": "7caa077252c1db8beb8b9597044f951318de0069b61fb63af3872a55cc3233539ea6e5ff8109450493ae778bfb6366ab8ba45b185a37c2e0a1f3da34d75b8b91",
+          "sha256": "4a15763a73581c18f310e2bcab6053a3fc3a7a47dade9c465fd13b85a5a1d5e6",
+          "sha1": "9692e8845952191ac489fc678aee366b6b64186a",
+          "md5": "d245ddc9edc06c148df1c6ce6374bf1b"
         }
       ]
     }

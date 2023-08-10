@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "profiling",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "profiling-v145.jar",
           "url": "profiling-v145.jar",
           "size": 23501,
-          "sha512": "6e1b22b7c945dae6be32cc8baf156dbcd87b7742e0543e9daf239bc383fced7355484a3e15752ead87038347e76c40fb8e47b3bb4ffb2a602b4141df0839170b",
-          "sha256": "0efb03f3a2c7e8409efc7d4fe199b79651bb204d1d9ac255d06785db0599b327",
-          "sha1": "cbea5a813dfe13086b938a2cb1f6a4c72f998c88",
-          "md5": "b874b41b703e57ff567dd7f582757377"
+          "sha512": "cd243ca6e8140777db0685d46e34aa3be50afb34fdf336dc7ea7eb846aa0b662d2c60d89a4b0f238da4b0a32ed2d06dca3aba41b5df412e0bed9db50177b48ea",
+          "sha256": "da422e18fcb6ccbee21b8d54fe2533608673d05e1fdd8de4ad2bd39bc0683bc6",
+          "sha1": "907ef883304328c6232761e7ffbb4cc02e37184f",
+          "md5": "bb69778e2fb02e5a4ed7fc0b2752972f"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "profiling-v145.jar",
           "url": "profiling-v145.jar",
           "size": 23501,
-          "sha512": "6e1b22b7c945dae6be32cc8baf156dbcd87b7742e0543e9daf239bc383fced7355484a3e15752ead87038347e76c40fb8e47b3bb4ffb2a602b4141df0839170b",
-          "sha256": "0efb03f3a2c7e8409efc7d4fe199b79651bb204d1d9ac255d06785db0599b327",
-          "sha1": "cbea5a813dfe13086b938a2cb1f6a4c72f998c88",
-          "md5": "b874b41b703e57ff567dd7f582757377"
+          "sha512": "cd243ca6e8140777db0685d46e34aa3be50afb34fdf336dc7ea7eb846aa0b662d2c60d89a4b0f238da4b0a32ed2d06dca3aba41b5df412e0bed9db50177b48ea",
+          "sha256": "da422e18fcb6ccbee21b8d54fe2533608673d05e1fdd8de4ad2bd39bc0683bc6",
+          "sha1": "907ef883304328c6232761e7ffbb4cc02e37184f",
+          "md5": "bb69778e2fb02e5a4ed7fc0b2752972f"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "profiling-v145-sources.jar",
           "url": "profiling-v145-sources.jar",
           "size": 11159,
-          "sha512": "aca9665b15458fc176c22550c12aa45af7c3b5f8e5526eff1040296e2ab4271053b835b0141e4b1c5aff1b2e05da28e63f9b729dae857724fa8b54686412d9d6",
-          "sha256": "8bd4cd672e82632c940dbd989dd3b5f105332b3f217e336716c7f29cdb6a0695",
-          "sha1": "a8ad51b5054f9288de5ea6a67517d8ca1b999407",
-          "md5": "96054b21fe40dd47f9240bf3041b7ff2"
+          "sha512": "d3529126de0c89ca3e4f56e5db7b08439d6ba4a719627db50db408aebb019c575fffe6a2578ae79e2651c7130f6d54d1b0121f8e065a02c7319406c755ee4b00",
+          "sha256": "327dac66c320eb6478cc07708035c0b98d86428f7cc22e669ebcd16409a87e64",
+          "sha1": "8242b3a606418da3ed6ddabb7caccf38a1172b9a",
+          "md5": "b51feb0768b72eef6f9eadc157623027"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "arc-core",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "arc-core-v145.jar",
           "url": "arc-core-v145.jar",
           "size": 1235470,
-          "sha512": "f24b4e68b7a93d5cfb1270fa5c5475a5e6d95809ffc6999047f9c32f20fdfd1ebb7224f6c2c5ae356e8347ded834161c21bce6877f8b94fb98d94cdd615dc112",
-          "sha256": "29245cb62b1bd363e02a69f8cc06c7ac1906d6ce45cbe3733690a8e9a0938ef4",
-          "sha1": "57b3c98270b4864f87d6df37d947e1aaa9a18d2f",
-          "md5": "ab46a53769bcca45517a14c4a4ecaef3"
+          "sha512": "0a9e44ae55e0d668dc124ea4b02d59596959fcb67051932043c5c30be1f77e3c5f4361edd877919a264e8b2d2cb2860b96e4f9902aba40e28c49dbe6ccb238bc",
+          "sha256": "8a523851a38ffbf838126838ec619ab823b670c22132aec70e29c8362558816d",
+          "sha1": "1d879fff67ec999a493ad42c6866995207926b3d",
+          "md5": "b6f08c56c0e3e0dbb049cfae8c22f781"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "arc-core-v145.jar",
           "url": "arc-core-v145.jar",
           "size": 1235470,
-          "sha512": "f24b4e68b7a93d5cfb1270fa5c5475a5e6d95809ffc6999047f9c32f20fdfd1ebb7224f6c2c5ae356e8347ded834161c21bce6877f8b94fb98d94cdd615dc112",
-          "sha256": "29245cb62b1bd363e02a69f8cc06c7ac1906d6ce45cbe3733690a8e9a0938ef4",
-          "sha1": "57b3c98270b4864f87d6df37d947e1aaa9a18d2f",
-          "md5": "ab46a53769bcca45517a14c4a4ecaef3"
+          "sha512": "0a9e44ae55e0d668dc124ea4b02d59596959fcb67051932043c5c30be1f77e3c5f4361edd877919a264e8b2d2cb2860b96e4f9902aba40e28c49dbe6ccb238bc",
+          "sha256": "8a523851a38ffbf838126838ec619ab823b670c22132aec70e29c8362558816d",
+          "sha1": "1d879fff67ec999a493ad42c6866995207926b3d",
+          "md5": "b6f08c56c0e3e0dbb049cfae8c22f781"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "arc-core-v145-sources.jar",
           "url": "arc-core-v145-sources.jar",
           "size": 692693,
-          "sha512": "3fd5bfdecefda2111c6b6131a838b0fc767a448a259b0c0adf9c2171ab1b87c6cc5dd93107114397e81096acfe4d8ba0789412053c3f8b4c91c2905629054481",
-          "sha256": "e816f2f9467e14286cd7e1982bf2977a512089a8c553c19ae78b53d85d8da142",
-          "sha1": "87239bc35023411f428bdd32edba5306372401b1",
-          "md5": "795bb6de2752c61c126633d27aeeb3fb"
+          "sha512": "6a3d54bcc31386bba11144d4bb94cce2422fe08603163211691be20e1538fb650305c9780c4861266263c0d724ac2d96967a5e9271d5227eb95f0fe61e58115c",
+          "sha256": "bedacdbc35aacc1563d7a37d742eefa20f1039380f8fa628178b7744ceda1c71",
+          "sha1": "0445aa411567cfd6e7f981676e03629ff188f1c4",
+          "md5": "adf3fe493c13eed7ac8ee497e2b0efdc"
         }
       ]
     }

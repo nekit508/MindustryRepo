@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives-ios",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-ios-v145.jar",
           "url": "natives-ios-v145.jar",
           "size": 4964339,
-          "sha512": "ad9b34708e37d6ae95a2aff52497812205267184b66bb2f46e0919baf7f92c3536cdc5b958dc2d530c5f493f5f3cee033a8deb902ab0f22f2352f8e15920423c",
-          "sha256": "2418ce4d8601859a626148dd62cd1679167c042765881dc7496243b102cd51f9",
-          "sha1": "d366ce2f749104eea5de7b677b1310da542b71b5",
-          "md5": "fcc9a5e26e6d38f091b92362974d41ad"
+          "sha512": "46b8619016d21e733e3b63e9790590682dcf3872f3bfe3bc5332340e73d3b951434a13313eedea13384b9b10d76456db3dd5f88590b989375c4c9ca2a7d57de1",
+          "sha256": "597a0340612876efec52a1c2b2304ed027feb11cc1b958c5377f8da06586bc62",
+          "sha1": "c4b6d1e6465aa0757621474e5a985082d76083bf",
+          "md5": "66160a958079deed072871a49b1e5280"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-ios-v145.jar",
           "url": "natives-ios-v145.jar",
           "size": 4964339,
-          "sha512": "ad9b34708e37d6ae95a2aff52497812205267184b66bb2f46e0919baf7f92c3536cdc5b958dc2d530c5f493f5f3cee033a8deb902ab0f22f2352f8e15920423c",
-          "sha256": "2418ce4d8601859a626148dd62cd1679167c042765881dc7496243b102cd51f9",
-          "sha1": "d366ce2f749104eea5de7b677b1310da542b71b5",
-          "md5": "fcc9a5e26e6d38f091b92362974d41ad"
+          "sha512": "46b8619016d21e733e3b63e9790590682dcf3872f3bfe3bc5332340e73d3b951434a13313eedea13384b9b10d76456db3dd5f88590b989375c4c9ca2a7d57de1",
+          "sha256": "597a0340612876efec52a1c2b2304ed027feb11cc1b958c5377f8da06586bc62",
+          "sha1": "c4b6d1e6465aa0757621474e5a985082d76083bf",
+          "md5": "66160a958079deed072871a49b1e5280"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-ios-v145-sources.jar",
           "url": "natives-ios-v145-sources.jar",
           "size": 4964339,
-          "sha512": "6657ccbfc2b08748f7b5d8564e84116980424ce08e029dc6cedf5472b3121cec0b0c10d72d374ebe057bb52af6a56ad85866ad8dffd9bf02b0f7b368faebd649",
-          "sha256": "6386cd466f8ea8e1a9ccf2f8c0c0e6cf42e2d98d54ba6b4f742f6ca33fe15374",
-          "sha1": "e87d0110ca9a679802648b1d9c5b2573b42e1fa2",
-          "md5": "e8d57845bdfe79bc8c3a51a8cc9ba9bf"
+          "sha512": "7105b618d60bd1b07fa95dd582b53dcf6caf43b733cb4a11f99169fe6bf37825be1509eb59c986fc6d111f996c64a808d7becb4835e88319ecd0292f4cae1016",
+          "sha256": "6d47c204f41ffb7abe7aae410ac9eaed24cb0eec4e8a29975dfc0b344a9f24da",
+          "sha1": "98386db2e3626a0de318011168a9e6b0f8665991",
+          "md5": "b91c6231eb557e066829307a4dbd0810"
         }
       ]
     }

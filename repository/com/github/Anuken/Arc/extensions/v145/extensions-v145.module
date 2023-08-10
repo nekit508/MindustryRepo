@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "extensions",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "extensions-v145.jar",
           "url": "extensions-v145.jar",
           "size": 261,
-          "sha512": "d31afbc4eb8c022183cbd14afacfea33afcda3eb3fcc9994c080349a5aadbd37fd3b699c00768aecbcb1441ae5a5f89f642133eecadbc49803253098a93fab40",
-          "sha256": "5e9422274eb75e3ef05142faedf490033d6e999c299efe5aa7b88fc807666bb6",
-          "sha1": "be6f2e4e293b314f98c5efeb4c19d4841d88aa9f",
-          "md5": "b434aa9a4156c43037317c542330da1e"
+          "sha512": "0273cb8ac574ac63d35c5eae24ce40ca4769ffc45ec3d8745df9f2596a54deaf81b30d2c1148ee1e64d476802e21653fe2c775c9c15770d8e58b983c31956c64",
+          "sha256": "841dbba2718dd95e7887cfb684441b251a6f4939ea2384dc7f22cc03bed3e202",
+          "sha1": "547e910bb9772e3bce44173a0e341bf37c0f527a",
+          "md5": "9eade2a64149d490ee541acea63067b1"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "extensions-v145.jar",
           "url": "extensions-v145.jar",
           "size": 261,
-          "sha512": "d31afbc4eb8c022183cbd14afacfea33afcda3eb3fcc9994c080349a5aadbd37fd3b699c00768aecbcb1441ae5a5f89f642133eecadbc49803253098a93fab40",
-          "sha256": "5e9422274eb75e3ef05142faedf490033d6e999c299efe5aa7b88fc807666bb6",
-          "sha1": "be6f2e4e293b314f98c5efeb4c19d4841d88aa9f",
-          "md5": "b434aa9a4156c43037317c542330da1e"
+          "sha512": "0273cb8ac574ac63d35c5eae24ce40ca4769ffc45ec3d8745df9f2596a54deaf81b30d2c1148ee1e64d476802e21653fe2c775c9c15770d8e58b983c31956c64",
+          "sha256": "841dbba2718dd95e7887cfb684441b251a6f4939ea2384dc7f22cc03bed3e202",
+          "sha1": "547e910bb9772e3bce44173a0e341bf37c0f527a",
+          "md5": "9eade2a64149d490ee541acea63067b1"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "extensions-v145-sources.jar",
           "url": "extensions-v145-sources.jar",
           "size": 261,
-          "sha512": "d31afbc4eb8c022183cbd14afacfea33afcda3eb3fcc9994c080349a5aadbd37fd3b699c00768aecbcb1441ae5a5f89f642133eecadbc49803253098a93fab40",
-          "sha256": "5e9422274eb75e3ef05142faedf490033d6e999c299efe5aa7b88fc807666bb6",
-          "sha1": "be6f2e4e293b314f98c5efeb4c19d4841d88aa9f",
-          "md5": "b434aa9a4156c43037317c542330da1e"
+          "sha512": "0273cb8ac574ac63d35c5eae24ce40ca4769ffc45ec3d8745df9f2596a54deaf81b30d2c1148ee1e64d476802e21653fe2c775c9c15770d8e58b983c31956c64",
+          "sha256": "841dbba2718dd95e7887cfb684441b251a6f4939ea2384dc7f22cc03bed3e202",
+          "sha1": "547e910bb9772e3bce44173a0e341bf37c0f527a",
+          "md5": "9eade2a64149d490ee541acea63067b1"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives-box2d-ios",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-box2d-ios-v145.jar",
           "url": "natives-box2d-ios-v145.jar",
           "size": 2384392,
-          "sha512": "99af41f4a5d59bb1ac6648ce72d1259485df8e2f87f6d493e818aafd311d76ea88feaad34a4cea942bda03e80d78223cbc9dedd87a650b3223b0b64c7d0fabd2",
-          "sha256": "123ba8fd161afa165dcc293ddd531331b59b9366cf8328da26336cf3aac24549",
-          "sha1": "b7b21fec4ac1a06de6e2fd8c6c8db3ea6d59a626",
-          "md5": "a8008106a9dcafa212b3905fceb51c1c"
+          "sha512": "a8519c2c0720e3074f2b74be75ec20a5fc3ca8d012d54d964807fb2c6f2d528b955280628764e77437ecc9b7ae8fe9c2f7423c4ae8c21762751924805e69119c",
+          "sha256": "716d1754ba63a3de79772002b48bbebd0f799dbd21209b75e4e1a5b69559b0d9",
+          "sha1": "962b37bd52ae2237c9871d489d0bfcb2bbe19a53",
+          "md5": "4eae7e5d286b22de504094058f0f2a95"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-box2d-ios-v145.jar",
           "url": "natives-box2d-ios-v145.jar",
           "size": 2384392,
-          "sha512": "99af41f4a5d59bb1ac6648ce72d1259485df8e2f87f6d493e818aafd311d76ea88feaad34a4cea942bda03e80d78223cbc9dedd87a650b3223b0b64c7d0fabd2",
-          "sha256": "123ba8fd161afa165dcc293ddd531331b59b9366cf8328da26336cf3aac24549",
-          "sha1": "b7b21fec4ac1a06de6e2fd8c6c8db3ea6d59a626",
-          "md5": "a8008106a9dcafa212b3905fceb51c1c"
+          "sha512": "a8519c2c0720e3074f2b74be75ec20a5fc3ca8d012d54d964807fb2c6f2d528b955280628764e77437ecc9b7ae8fe9c2f7423c4ae8c21762751924805e69119c",
+          "sha256": "716d1754ba63a3de79772002b48bbebd0f799dbd21209b75e4e1a5b69559b0d9",
+          "sha1": "962b37bd52ae2237c9871d489d0bfcb2bbe19a53",
+          "md5": "4eae7e5d286b22de504094058f0f2a95"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-box2d-ios-v145-sources.jar",
           "url": "natives-box2d-ios-v145-sources.jar",
           "size": 2384392,
-          "sha512": "85d7b6ffa9bb53d35abd0388980eb4ece42f7cf13830bb8eee8f2fdf0e0d7cfaffa703651e0eb378c0331d95a759794ba1e315634cc4b55711d1eb9a19ff7bdd",
-          "sha256": "abdbd9c07b47b4354b8a36161f72a3b77cb9587c74bf9b33b174a9dcd62025f5",
-          "sha1": "4eda3a345838daaf8e44d1067e447cea5c0f3ded",
-          "md5": "1992a9a87d47c7009d367d29a24f532a"
+          "sha512": "e124ce4461679e5a8b58b44567131666c2ee9e9b1dfd71ad950e0e7d5a2e2c523fcf08ee9bb7a8ec2080a415e29f597172630da3458dbdc1fdc57928edac572a",
+          "sha256": "04153e5c43bda8346eaa37ae3c34219d0ceae11259d35e16b9186ff8a3bf5021",
+          "sha1": "c4cd02f8725203d05fc380619625c9378b7c7cb0",
+          "md5": "f458bf0d57b046844abcfb3e56514beb"
         }
       ]
     }

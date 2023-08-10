@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "backends",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "backends-v145.jar",
           "url": "backends-v145.jar",
           "size": 261,
-          "sha512": "3011871480fa420788274939c535e9e6db56fdbb8300b8587e93794858d4d0188e4aa7d493313d4d89a38a08f286afc2b379aa1d744a1ad266f379216c847602",
-          "sha256": "8f2df1ce68e703f25daa156155809c78ad5a519d1f0872a705d24be98bbb85e1",
-          "sha1": "55975d4bc89cb4eebde65bafda9cb492c32feb75",
-          "md5": "ef6aed88009d1ee27ba74e0762081dd3"
+          "sha512": "6672f46dfd658be1de722c5e2a1ad5a79d54d0f07d303bed1375b9672c31fd5b4681fe8f3aa251076742374ea4fdba7797daa8e0e42ad51985024460285fe84a",
+          "sha256": "b6d5b9ae2162121e849c6306c092bd61a0f4690c05e16de81f915ae7b792b5d5",
+          "sha1": "c32b04225f9cc8f731fa9131be376e4b12847640",
+          "md5": "2b84557a68def34058fd64aff7559b72"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "backends-v145.jar",
           "url": "backends-v145.jar",
           "size": 261,
-          "sha512": "3011871480fa420788274939c535e9e6db56fdbb8300b8587e93794858d4d0188e4aa7d493313d4d89a38a08f286afc2b379aa1d744a1ad266f379216c847602",
-          "sha256": "8f2df1ce68e703f25daa156155809c78ad5a519d1f0872a705d24be98bbb85e1",
-          "sha1": "55975d4bc89cb4eebde65bafda9cb492c32feb75",
-          "md5": "ef6aed88009d1ee27ba74e0762081dd3"
+          "sha512": "6672f46dfd658be1de722c5e2a1ad5a79d54d0f07d303bed1375b9672c31fd5b4681fe8f3aa251076742374ea4fdba7797daa8e0e42ad51985024460285fe84a",
+          "sha256": "b6d5b9ae2162121e849c6306c092bd61a0f4690c05e16de81f915ae7b792b5d5",
+          "sha1": "c32b04225f9cc8f731fa9131be376e4b12847640",
+          "md5": "2b84557a68def34058fd64aff7559b72"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "backends-v145-sources.jar",
           "url": "backends-v145-sources.jar",
           "size": 261,
-          "sha512": "3011871480fa420788274939c535e9e6db56fdbb8300b8587e93794858d4d0188e4aa7d493313d4d89a38a08f286afc2b379aa1d744a1ad266f379216c847602",
-          "sha256": "8f2df1ce68e703f25daa156155809c78ad5a519d1f0872a705d24be98bbb85e1",
-          "sha1": "55975d4bc89cb4eebde65bafda9cb492c32feb75",
-          "md5": "ef6aed88009d1ee27ba74e0762081dd3"
+          "sha512": "6672f46dfd658be1de722c5e2a1ad5a79d54d0f07d303bed1375b9672c31fd5b4681fe8f3aa251076742374ea4fdba7797daa8e0e42ad51985024460285fe84a",
+          "sha256": "b6d5b9ae2162121e849c6306c092bd61a0f4690c05e16de81f915ae7b792b5d5",
+          "sha1": "c32b04225f9cc8f731fa9131be376e4b12847640",
+          "md5": "2b84557a68def34058fd64aff7559b72"
         }
       ]
     }

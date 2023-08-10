@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives-android",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-android-v145.jar",
           "url": "natives-android-v145.jar",
           "size": 1119476,
-          "sha512": "d67e149bd457dd06c3239ca7872e28f9e39ae317d24d7820b1b01ee799ea167e621023d7d495981f018b02860cfcccc7486d071e589945a446ddf9f22abd135c",
-          "sha256": "3bb1cf801ef35ed4bcf36589ed5c88c07eac577e9b404d693533ea81798b3346",
-          "sha1": "e7492ca64f76b0f9f68362025744b08e224a752f",
-          "md5": "fcddeb4558e5fc5272ef5d145df17ad8"
+          "sha512": "949a3c29317f3e5afc75791224691c867a955baaf9f0dd27e2fb24a5a893b7a5d7dfec85fe099c3aa4b2b4196d5b90d1fc8adccad19e6bed4790126f2ba4176a",
+          "sha256": "7cb84bfdb4f6f6be98e6717f762c81f11bcd0cf5e676aa454b67a54b5d2396c3",
+          "sha1": "64fdfc4ebe487bef494cf69226e97858a44413a3",
+          "md5": "607ea536b2441c2766686af5af8728df"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-android-v145.jar",
           "url": "natives-android-v145.jar",
           "size": 1119476,
-          "sha512": "d67e149bd457dd06c3239ca7872e28f9e39ae317d24d7820b1b01ee799ea167e621023d7d495981f018b02860cfcccc7486d071e589945a446ddf9f22abd135c",
-          "sha256": "3bb1cf801ef35ed4bcf36589ed5c88c07eac577e9b404d693533ea81798b3346",
-          "sha1": "e7492ca64f76b0f9f68362025744b08e224a752f",
-          "md5": "fcddeb4558e5fc5272ef5d145df17ad8"
+          "sha512": "949a3c29317f3e5afc75791224691c867a955baaf9f0dd27e2fb24a5a893b7a5d7dfec85fe099c3aa4b2b4196d5b90d1fc8adccad19e6bed4790126f2ba4176a",
+          "sha256": "7cb84bfdb4f6f6be98e6717f762c81f11bcd0cf5e676aa454b67a54b5d2396c3",
+          "sha1": "64fdfc4ebe487bef494cf69226e97858a44413a3",
+          "md5": "607ea536b2441c2766686af5af8728df"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-android-v145-sources.jar",
           "url": "natives-android-v145-sources.jar",
           "size": 1119476,
-          "sha512": "4124fc45e06b14924b83147f342b69aad12abead14ae5039df93a48d5938b12a692ca06cac029aecc468fb865685b52cfc431d5611e80edfeec7fdce6f1024b6",
-          "sha256": "42745b06bc965e4d893aa5f54e98407be078efe91b7576e61435b803c8c649a1",
-          "sha1": "4cf5e278a5298bf5bd17b64c4ae3a3ca2ab67725",
-          "md5": "38bf270f96385b8432aac62c05a74630"
+          "sha512": "04277ce95b8038231d43e4cc9ef5e2dc5b5919fe72efbff72c4cf78c688764fad1ca35e6d90990a794a07df6436fa4d068a705f2f9dccadfdc912798fb613acd",
+          "sha256": "359e3679cfb85cc6233dc3459abeb6eae66804cf72dd03c81c749e30d6eb8f25",
+          "sha1": "e4c74cd93d02d78f38fd631af385289b6be2fae8",
+          "md5": "78d65ea32a843cb3543991dd3650c489"
         }
       ]
     }

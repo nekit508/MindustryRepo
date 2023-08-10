@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "flabel",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "flabel-v145.jar",
           "url": "flabel-v145.jar",
           "size": 33718,
-          "sha512": "c3480d569f670800c27dba80a04f56b1fba7fc652645dc818b74f77ff40724e092dcffe5b91d1199a1ba7b5b436e81b9d4ddd3ea310538b8f2f05c01f8928713",
-          "sha256": "63d01a84ba6cc1d0d60c0542613c1d06d1aff40fdfcbc398d267d014fa443854",
-          "sha1": "ccfd0fe757cca92512f6566bcb481ebc410b48c4",
-          "md5": "492dddeb400389de9cb18ac7f846f17c"
+          "sha512": "8cd795bfb8b55189b4c20f49e1849ada2c5d43c5c41772e0c944088344da7d19ff64894e82334e09f1607d8a671e8fe89bde3779eb7b9249126c049665a075bc",
+          "sha256": "259818e4630629902bdaf9192f1966930d55e3df87131822fdb1814bdef8db14",
+          "sha1": "d4658990554f3d06de03f2a1d464875365ecf472",
+          "md5": "a66a5e4f6cd3da0800f6b8bfa9ee39b0"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "flabel-v145.jar",
           "url": "flabel-v145.jar",
           "size": 33718,
-          "sha512": "c3480d569f670800c27dba80a04f56b1fba7fc652645dc818b74f77ff40724e092dcffe5b91d1199a1ba7b5b436e81b9d4ddd3ea310538b8f2f05c01f8928713",
-          "sha256": "63d01a84ba6cc1d0d60c0542613c1d06d1aff40fdfcbc398d267d014fa443854",
-          "sha1": "ccfd0fe757cca92512f6566bcb481ebc410b48c4",
-          "md5": "492dddeb400389de9cb18ac7f846f17c"
+          "sha512": "8cd795bfb8b55189b4c20f49e1849ada2c5d43c5c41772e0c944088344da7d19ff64894e82334e09f1607d8a671e8fe89bde3779eb7b9249126c049665a075bc",
+          "sha256": "259818e4630629902bdaf9192f1966930d55e3df87131822fdb1814bdef8db14",
+          "sha1": "d4658990554f3d06de03f2a1d464875365ecf472",
+          "md5": "a66a5e4f6cd3da0800f6b8bfa9ee39b0"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "flabel-v145-sources.jar",
           "url": "flabel-v145-sources.jar",
           "size": 20633,
-          "sha512": "63a269069b3478dd22d4fc62116b9ef6562237b4e87d990e552d25f8c07a294a881d66f498a94e3824ea8b15720df8d6de7c997db108fc9aae84d9dfd4ced672",
-          "sha256": "6623963bf9c5cd8b55caa9c487e47b1c249d2fed68db72476bd51b80de1b4ba5",
-          "sha1": "cf5e10ae75c196bfff4347286c05d5454ed250b7",
-          "md5": "993f23b8562f597c665c2590a6d59f1d"
+          "sha512": "5195c61bed1ccf89ee78834aa3bfcd4880f43cf64902941a999a486e41b43ffee71f4d69d3eb85b13f56299f43fd5099c11aa4dc54377055bdbe16bac6c4fc7e",
+          "sha256": "3d8c82abbfd9daf073ddc67fec19d06b54e277c787aa6061fbebd41bc5efdff3",
+          "sha1": "858f12c97f270de2e58fa5d4cc0fe35cda008e19",
+          "md5": "a1562f65a116ef4c580050cfbe35f35b"
         }
       ]
     }

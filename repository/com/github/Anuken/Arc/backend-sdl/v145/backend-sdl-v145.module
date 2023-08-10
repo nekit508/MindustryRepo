@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "backend-sdl",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "backend-sdl-v145.jar",
           "url": "backend-sdl-v145.jar",
           "size": 3750876,
-          "sha512": "86b7a3d23cc2f9c9c6f5c3c22215c5bc8b50e1649e6c5377dfbae35fa3407d5229b12f08cf0fdf6ef036495d689d5a17452a7d7cad56e1ccd09eb61572879bae",
-          "sha256": "47c15cc5f56868b1d2c4b85fb2b8b723cf27edd83c3c875cf23b634eb3f44b5d",
-          "sha1": "ea1fbd39797d1600196df058a527072ed619a333",
-          "md5": "ef3b013111ffdb153cf15925d138ab47"
+          "sha512": "08e8775a17244346947cb4bf7b7766236aa11d632ad6cadae761ce7e9f3358e237217b68a929a53edf5caf46ccc8da7568101b9f44d8abf8ee6c16c6e7c1b5aa",
+          "sha256": "264a4bf7ce56488f48ac1178e23bddbd00899a62084cdb56e817b0e8221740b6",
+          "sha1": "65d5fcd33a6b0cb953ed933bfa8b24e1824000c9",
+          "md5": "e4f6d5c72fba5c38e080b35c1e8837c6"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "backend-sdl-v145.jar",
           "url": "backend-sdl-v145.jar",
           "size": 3750876,
-          "sha512": "86b7a3d23cc2f9c9c6f5c3c22215c5bc8b50e1649e6c5377dfbae35fa3407d5229b12f08cf0fdf6ef036495d689d5a17452a7d7cad56e1ccd09eb61572879bae",
-          "sha256": "47c15cc5f56868b1d2c4b85fb2b8b723cf27edd83c3c875cf23b634eb3f44b5d",
-          "sha1": "ea1fbd39797d1600196df058a527072ed619a333",
-          "md5": "ef3b013111ffdb153cf15925d138ab47"
+          "sha512": "08e8775a17244346947cb4bf7b7766236aa11d632ad6cadae761ce7e9f3358e237217b68a929a53edf5caf46ccc8da7568101b9f44d8abf8ee6c16c6e7c1b5aa",
+          "sha256": "264a4bf7ce56488f48ac1178e23bddbd00899a62084cdb56e817b0e8221740b6",
+          "sha1": "65d5fcd33a6b0cb953ed933bfa8b24e1824000c9",
+          "md5": "e4f6d5c72fba5c38e080b35c1e8837c6"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "backend-sdl-v145-sources.jar",
           "url": "backend-sdl-v145-sources.jar",
           "size": 3731433,
-          "sha512": "422255a45f18b31adbe8802f0a92c4f8196b5d36178e2c3f8cb8294403e2ece6fcaadecf2d93ad309062c71df5c66cd97dbd91cea24b829b5c4e5021fd4008e5",
-          "sha256": "feaaba1485eccd55dd3ce6dced91ae22cbf45a3b8c4309fe93e1f7388f09cef6",
-          "sha1": "cd77fd447cee80395cdfad08e963d2cd8951262e",
-          "md5": "88603e117aa3983ef064271d6e1f390e"
+          "sha512": "d5d5f21fac0d7fcd078746f888928ba07fb724faff19ff2b4f064ac6aa70d1ea33ca16eebec697437fdbaf2307e7f75e3a1441394b0c7d8409ae03c511620c62",
+          "sha256": "2e378852e9709b2bbb35503068a250a7d80d1ec1244660402af0b457afb53046",
+          "sha1": "9daf2d28a78ad7f3aa0dd25b79ff5230d8796f55",
+          "md5": "556266cd7c1666da38189e5a9e098d8e"
         }
       ]
     }

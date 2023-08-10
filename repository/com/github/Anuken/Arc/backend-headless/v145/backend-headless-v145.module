@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "backend-headless",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "backend-headless-v145.jar",
           "url": "backend-headless-v145.jar",
           "size": 4054,
-          "sha512": "527b34a7526a2817f94903275112c823d6509e48fd9bb13ce6bdc7d5cc1de8bc56befbda73ae4dbab423826e91a1cb73984af301842824b9a73fe80e2cc1261d",
-          "sha256": "d48fb7142b41d18bbab79f6d185367e378f8edff132e721d15175f96657d1103",
-          "sha1": "fe6cab159acb7431444ab47dda3a4b43c0e3a061",
-          "md5": "ba1d6b9272510fcca8a945d554354f94"
+          "sha512": "9b87013506a51686538ec22238c24dec50ab512bd9d80634713adc34f41e82f779ab94f0dc98e0a133fbc654eed3bcd8d1ce763a43624fe1347b576abac323b0",
+          "sha256": "c782075ad0ffece3e1e4867e33c9e04e6461ca4d01180378850dcbb9a177178b",
+          "sha1": "d0d99789f2575c5a8a3938f74665b60265c8a28e",
+          "md5": "f4b74f063b0a86da02165f031687828b"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "backend-headless-v145.jar",
           "url": "backend-headless-v145.jar",
           "size": 4054,
-          "sha512": "527b34a7526a2817f94903275112c823d6509e48fd9bb13ce6bdc7d5cc1de8bc56befbda73ae4dbab423826e91a1cb73984af301842824b9a73fe80e2cc1261d",
-          "sha256": "d48fb7142b41d18bbab79f6d185367e378f8edff132e721d15175f96657d1103",
-          "sha1": "fe6cab159acb7431444ab47dda3a4b43c0e3a061",
-          "md5": "ba1d6b9272510fcca8a945d554354f94"
+          "sha512": "9b87013506a51686538ec22238c24dec50ab512bd9d80634713adc34f41e82f779ab94f0dc98e0a133fbc654eed3bcd8d1ce763a43624fe1347b576abac323b0",
+          "sha256": "c782075ad0ffece3e1e4867e33c9e04e6461ca4d01180378850dcbb9a177178b",
+          "sha1": "d0d99789f2575c5a8a3938f74665b60265c8a28e",
+          "md5": "f4b74f063b0a86da02165f031687828b"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "backend-headless-v145-sources.jar",
           "url": "backend-headless-v145-sources.jar",
           "size": 1790,
-          "sha512": "1c2e183f15c70bb7a189f192e4b0a5a43aa380963d9c700418e97c98e22e76836e304d01e20eded27736e9e11eff695ad434472bef2e6bb89e11558c535ec243",
-          "sha256": "2ed61cd6584cbf74fc0d8c0178385abd60f8af7476e220ae99bd633abc6b7db1",
-          "sha1": "d53cf29d27340cf78a53862ca5498b7049d95171",
-          "md5": "2742f21c5103e6447bf2ac86bf1e99a8"
+          "sha512": "f050a9abf3b8005d9084822177f6217c4fb755167c39b12a530aa9f3e572f98b0d387d86ded23a0e386cff0299c9b7ef93336bc6357bb67b24efc865baa76a86",
+          "sha256": "c8bff9eca1472772246f03327e843b09c5de4d3499a69743a1f9a1fbac115588",
+          "sha1": "d37eb57552cdcce17bdea27b18ad90a55e9c2d4d",
+          "md5": "209320989020ff14f09c77b4b09d2a57"
         }
       ]
     }

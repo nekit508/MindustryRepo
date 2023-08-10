@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.Anuken",
+    "group": "com.github.Anuken.Arc",
     "module": "natives-box2d-android",
     "version": "v145",
     "attributes": {
@@ -28,10 +28,10 @@
           "name": "natives-box2d-android-v145.jar",
           "url": "natives-box2d-android-v145.jar",
           "size": 411485,
-          "sha512": "958443d22aa4b626b8cd03a58199ef1b19f7f79e37f3612034c29170125a915c160128f1ca85d9022200211d682c170de788d289dff6dddf8b6f02212e5a28ad",
-          "sha256": "8fbd59b1904576a786f343a020a66c4b72de666bec1c55988bcea69f2457b476",
-          "sha1": "4aec1d61a1216f9cab23908b7aed23bd8575477f",
-          "md5": "7c41dcf44dd84fddae785adf3810ffc5"
+          "sha512": "1cffe8fa31c72118c0cfd027c90f2e18a473b0e5e352936085b31b7084a3b2a27ef9585c2dd86ada902cbff0ab679d03ca99aeb27d92537aa36a8f8acce48d5b",
+          "sha256": "226cdb8ce38f56622cc41de72df29180962906397fa3fc617d0afa8a342e2ee8",
+          "sha1": "10f8fcc337cbf5e65004367d6f6c6cc060be48eb",
+          "md5": "d0a704a322d793200fe06b211faf9f98"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "natives-box2d-android-v145.jar",
           "url": "natives-box2d-android-v145.jar",
           "size": 411485,
-          "sha512": "958443d22aa4b626b8cd03a58199ef1b19f7f79e37f3612034c29170125a915c160128f1ca85d9022200211d682c170de788d289dff6dddf8b6f02212e5a28ad",
-          "sha256": "8fbd59b1904576a786f343a020a66c4b72de666bec1c55988bcea69f2457b476",
-          "sha1": "4aec1d61a1216f9cab23908b7aed23bd8575477f",
-          "md5": "7c41dcf44dd84fddae785adf3810ffc5"
+          "sha512": "1cffe8fa31c72118c0cfd027c90f2e18a473b0e5e352936085b31b7084a3b2a27ef9585c2dd86ada902cbff0ab679d03ca99aeb27d92537aa36a8f8acce48d5b",
+          "sha256": "226cdb8ce38f56622cc41de72df29180962906397fa3fc617d0afa8a342e2ee8",
+          "sha1": "10f8fcc337cbf5e65004367d6f6c6cc060be48eb",
+          "md5": "d0a704a322d793200fe06b211faf9f98"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "natives-box2d-android-v145-sources.jar",
           "url": "natives-box2d-android-v145-sources.jar",
           "size": 411485,
-          "sha512": "fd169c777811a6f8efe471ea3c8811226d2f90961afb43f91dc8a9ca24ade8598f21a37a08c3210e7ca7f5b3ae8c086633a01206976e332a6efd4f8131b14dd4",
-          "sha256": "9124a550bbc118122b515437460b2f9192300a604abaa4f361a81716238b0bb8",
-          "sha1": "73735045a4bff401d5491b901cec868755a10f37",
-          "md5": "72a0c30d00df2c0a162c7d8ceeb9bfe0"
+          "sha512": "fba1e98c297fd8c9603faa3a6d73c812956d2f1dfd08b7da41113a462a4b6d304296cf3e04f047258362f5966e1a4292bf3d3a70cbc6e92191939db821d8b351",
+          "sha256": "6dfa14c8cb9f71c0911b8add19a4da5e6784123d320a2764d29939ba6c2b544a",
+          "sha1": "a8d1bdc021c79fa0be8dbdad2b84820d94d9fc2a",
+          "md5": "44ea64bdbfc8cfacbd7b8ca74b016cec"
         }
       ]
     }
