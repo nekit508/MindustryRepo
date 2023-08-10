@@ -75,7 +75,7 @@ sourceFolder.deleteDirectory();
             }
         }
         System.out.println("gradlew publishFolder");
-        ProcessBuilder pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew", "publishFolder", "--stacktrace");
+        ProcessBuilder pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew.sh", "publishFolder", "--stacktrace");
         pb.directory(sourceFolder.file());
 //        pb.inheritIO();
         pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
