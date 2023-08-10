@@ -21,7 +21,7 @@ jobs:
           java-version: 16
       - name: Build with Gradle
         run:
-          ./chmod +x gradlew
+          chmod +x gradlew
           ./gradlew checkUpdated
       - name: Push changes
         run: |
