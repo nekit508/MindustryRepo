@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "box2d",
+    "version": "v146",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "box2d-v146.jar",
+          "url": "box2d-v146.jar",
+          "size": 58093,
+          "sha512": "025fe73b7955cb31a44fc32a8f5e7517133548c38889112f871eaa00fb3ee6f9223b925a89b196f7394df76a815113ff0905c25396822f1e5a63154841b58385",
+          "sha256": "39a81e269c28db2d7dfdc6e2fbcdc1ac24efc04a05e90909bfd37e98a8e78128",
+          "sha1": "ab37d1d0db2e7775113ddbe6e5f6b1861d1c2ea6",
+          "md5": "7bdd9c441ef48436344cd4c7ab1a5589"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "box2d-v146.jar",
+          "url": "box2d-v146.jar",
+          "size": 58093,
+          "sha512": "025fe73b7955cb31a44fc32a8f5e7517133548c38889112f871eaa00fb3ee6f9223b925a89b196f7394df76a815113ff0905c25396822f1e5a63154841b58385",
+          "sha256": "39a81e269c28db2d7dfdc6e2fbcdc1ac24efc04a05e90909bfd37e98a8e78128",
+          "sha1": "ab37d1d0db2e7775113ddbe6e5f6b1861d1c2ea6",
+          "md5": "7bdd9c441ef48436344cd4c7ab1a5589"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "box2d-v146-sources.jar",
+          "url": "box2d-v146-sources.jar",
+          "size": 52592,
+          "sha512": "0436dbbf626f880462c06b4fc5af22b79377667265d7bfe5f4a738acf79d168a9f7660413cff06b4961266df20a8336a3873606ebff5ac79736f17326ee60269",
+          "sha256": "f390cfe5964bec1721fc1b135dd139be88f34272f007a8b08d1079a0fda248f3",
+          "sha1": "ec9b44e565f353568aa0f2d09750bb4373e619ce",
+          "md5": "49722b2d0ce291bb0333c649e5447428"
+        }
+      ]
+    }
+  ]
+}
