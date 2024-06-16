@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken",
+    "module": "rhino",
+    "version": "73a812444ac388ac2d94013b5cadc8f70b7ea027",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+          "url": "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+          "size": 938762,
+          "sha512": "8b09f3a4929e205748090058580976f6939852ea26335c5c7799828fb8529c4f05beb023be08985fedbc1c8f20ee520c583986f5c4d0db4d2bd8d216fc93cfc2",
+          "sha256": "2e39f9cbbb3d9be07c53f74c50e69ecca692a049f2110d6cd7a7142cc27642c4",
+          "sha1": "b5d229181caed936f67ea1e8431067081f2cba92",
+          "md5": "5515ddf8caec967ea588f7ca61c719fb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+          "url": "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+          "size": 938762,
+          "sha512": "8b09f3a4929e205748090058580976f6939852ea26335c5c7799828fb8529c4f05beb023be08985fedbc1c8f20ee520c583986f5c4d0db4d2bd8d216fc93cfc2",
+          "sha256": "2e39f9cbbb3d9be07c53f74c50e69ecca692a049f2110d6cd7a7142cc27642c4",
+          "sha1": "b5d229181caed936f67ea1e8431067081f2cba92",
+          "md5": "5515ddf8caec967ea588f7ca61c719fb"
+        }
+      ]
+    }
+  ]
+}

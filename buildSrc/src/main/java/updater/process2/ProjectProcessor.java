@@ -17,11 +17,11 @@ import javax.xml.transform.stream.*;
 import java.io.*;
 import java.security.*;
 
-public class ProjectProcessor{
+public class ProjectProcessor {
     public static void process(String repoOwner,
                                String repoName,
                                ZipFi zip,
-                               String repoVersion, Seq<Fi> filesToHash) throws IOException, InterruptedException, NoSuchAlgorithmException, SAXException{
+                               String repoVersion, Seq<Fi> filesToHash) throws IOException, InterruptedException, NoSuchAlgorithmException, SAXException {
         Fi innerFolder = zip.list()[0];
         Fi sourceFolder = Vars.sources.child(repoOwner).child(repoName).child("unzip-sources");
         sourceFolder.deleteDirectory();
@@ -39,11 +39,11 @@ public class ProjectProcessor{
         {
             Fi buildSrc = sourceFolder.child("buildSrc");
             String rawBuildGradle = null;
-            if(buildSrc.child("build.gradle").exists()){
+            if (buildSrc.child("build.gradle").exists()) {
                 rawBuildGradle = buildSrc.child("build.gradle").readString();
             }
             Vars.innerBuildSrc.copyFilesTo(buildSrc);
-            if(rawBuildGradle != null){
+            if (rawBuildGradle != null) {
                 Fi myBuildGradle = Vars.innerBuildSrc.child("build.gradle");
                 String[] parts = myBuildGradle.readString().split("//split");
                 buildSrc.child("build.gradle").writeString(parts[0] + rawBuildGradle + parts[1]);
@@ -52,22 +52,43 @@ public class ProjectProcessor{
             {
                 Fi taskFile = buildSrc.child("src/main/java/maven2github/PublishToGithubTask.java");
                 taskFile.writeString(taskFile.readString().replace("File targetFolder = new File(getProject().getRootProject().getBuildDir(), \"mavenLocal\");",
-                    "File targetFolder = new File(\"" + tmpRepository.absolutePath() + "\");"
+                        "File targetFolder = new File(\"" + tmpRepository.absolutePath() + "\");"
 
                 ));
             }
             {
                 Fi pluginFile = buildSrc.child("src/main/java/maven2github/PublishGithubPlugin.java");
                 pluginFile.writeString(pluginFile.readString().replace("String strictMavenLocal = null;",
-                    "String strictMavenLocal = \"" + tmpRepository.absolutePath() + "\";"
+                        "String strictMavenLocal = \"" + tmpRepository.absolutePath() + "\";"
 
                 ));
             }
         }
-        initBuildSettings:{
+        boolean aloneProject = false;
+        initBuildSettings:
+        {
             Fi child = sourceFolder.child("settings.gradle");
-            if (!child.exists()){
-                child.writeString("");
+            if (!child.exists()) {
+                aloneProject = true;
+                child.writeString("rootProject.name=\""+repoName+"\"");
+            } else {
+                String str = child.readString();
+                int lastIdx = 0;
+                int counter = 0;
+                while (true) {
+                    int idx = str.indexOf("include", lastIdx);
+                    if (idx == -1) {
+                        break;
+                    }
+                    counter += 1;
+                    lastIdx = idx + 1;
+                }
+                if (counter==0){
+                    aloneProject=true;
+                }
+                if (str.contains("//GithubRepo Alone")){
+                    aloneProject=true;
+                }
             }
         }
 
@@ -78,21 +99,21 @@ public class ProjectProcessor{
             int index = string.indexOf("allprojects");
             //language=TEXT
             String s1 = ("apply plugin: maven2github.PublishGithubPlugin\n" +
-                         "publishConfig{\n" +
-                         "    repoAuthor=\"{0}\"\n" +
-                         "    repoName=\"{1}\"\n" +
-                         "    version=\"{2}\"\n" +
-                         "}\n")
-                .replace("{0}", repoOwner)
-                .replace("{1}", repoName)
-                .replace("{2}", repoVersion);
+                    "publishConfig{\n" +
+                    "    repoAuthor=\"{0}\"\n" +
+                    "    repoName=\"{1}\"\n" +
+                    "    version=\"{2}\"\n" +
+                    "}\n")
+                    .replace("{0}", repoOwner)
+                    .replace("{1}", aloneProject?"":repoName)
+                    .replace("{2}", repoVersion);
 
             String newString;
-            if (index==-1){
-                index=string.indexOf('}')+1;
-                newString = (string.substring(0, index) +"\n"+ s1 + string.substring(index))
+            if (index == -1) {
+                index = string.indexOf('}') + 1;
+                newString = (string.substring(0, index) + "\n" + s1 + string.substring(index))
                         .replace("withJavadocJar()", "//withJavadocJar()");
-            } else{
+            } else {
                 newString = (string.substring(0, index) + s1 + string.substring(index))
                         .replace("withJavadocJar()", "//withJavadocJar()");
             }
@@ -103,9 +124,9 @@ public class ProjectProcessor{
             if (gradlePropertiesFile.exists()) {
                 String readString = gradlePropertiesFile.readString();
                 int index1 = readString.indexOf("archash");
-                if(index1 >= 0){
+                if (index1 >= 0) {
                     int index2 = readString.indexOf("\n", index1);
-                    if(index2 < 0) index2 = readString.length();
+                    if (index2 < 0) index2 = readString.length();
                     String s = readString.substring(0, index1) + "archash=" + repoVersion + readString.substring(index2);
                     gradlePropertiesFile.writeString(s);
                 }
@@ -114,11 +135,11 @@ public class ProjectProcessor{
         System.out.println("gradlew publishFolder");
         ProcessBuilder pb;
         String taskName = "publishToMavenLocal";// "publishFolder";
-        if(OS.isLinux){
+        if (OS.isLinux) {
             Runtime.getRuntime()
-                .exec("chmod +x gradlew", null, sourceFolder.file());
+                    .exec("chmod +x gradlew", null, sourceFolder.file());
             pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew", taskName, "--stacktrace");
-        }else{
+        } else {
             pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew.bat", taskName, "--stacktrace");
         }
         pb.directory(sourceFolder.file());
@@ -127,7 +148,7 @@ public class ProjectProcessor{
         pb.redirectOutput(ProcessBuilder.Redirect.to(buildLogFile.file()));
         Process p = pb.start();
         p.waitFor();
-        if(buildLogFile.readString().contains("BUILD FAILED")){
+        if (buildLogFile.readString().contains("BUILD FAILED")) {
             throw new RuntimeException("exception happened: \n" + buildLogFile.readString());
         }
         System.out.println("Processing maven repo");
@@ -140,48 +161,48 @@ public class ProjectProcessor{
                 String path = it.absolutePath();
                 System.out.println(path);
                 Fi child = Vars.repository.child(path.substring(prefix.length()));
-                try{
+                try {
                     boolean shouldGenerateHash = !child.exists();
-                    if(!it.name().equals("maven-metadata.xml") || !child.exists()){
+                    if (!it.name().equals("maven-metadata.xml") || !child.exists()) {
                         it.copyTo(child);
-                    }else{
+                    } else {
                         child.writeString(mergeMavenMetadata(child.readString(), repoVersion));
                         shouldGenerateHash = true;
                     }
-                    if(shouldGenerateHash){
+                    if (shouldGenerateHash) {
                         filesToHash.add(child);
                     }
-                }catch(Exception e){
+                } catch (Exception e) {
                     throw new RuntimeException(e);
                 }
             });
         }
     }
 
-    static String mergeMavenMetadata(String current, String newTag) throws SAXException, IOException, ParserConfigurationException, TransformerException{
+    static String mergeMavenMetadata(String current, String newTag) throws SAXException, IOException, ParserConfigurationException, TransformerException {
         DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
         Document document = documentBuilder.parse(new StringInputStream(current));
 
         Node root = document.getDocumentElement();
 
-        for(Node rootChild = root.getFirstChild(); rootChild != null; rootChild = rootChild.getNextSibling()){
-            if(!rootChild.getNodeName().equals("versioning")) continue;
+        for (Node rootChild = root.getFirstChild(); rootChild != null; rootChild = rootChild.getNextSibling()) {
+            if (!rootChild.getNodeName().equals("versioning")) continue;
 
-            for(Node versioningChild = rootChild.getFirstChild(); versioningChild != null; versioningChild = versioningChild.getNextSibling()){
+            for (Node versioningChild = rootChild.getFirstChild(); versioningChild != null; versioningChild = versioningChild.getNextSibling()) {
 
-                if(versioningChild.getNodeName().matches("latest|release")){
+                if (versioningChild.getNodeName().matches("latest|release")) {
                     versioningChild.setTextContent(newTag);
                     versioningChild.setNodeValue(newTag);
                     continue;
                 }
-                if(versioningChild.getNodeName().equals("versions")){
+                if (versioningChild.getNodeName().equals("versions")) {
                     OrderedSet<String> set = new OrderedSet<>();
-                    for(Node versionNode = versioningChild.getFirstChild(); versionNode != null; versionNode = versionNode.getNextSibling()){
-                        if(versionNode.getNodeName().equals("version") && !set.add(versionNode.getTextContent().trim())){
+                    for (Node versionNode = versioningChild.getFirstChild(); versionNode != null; versionNode = versionNode.getNextSibling()) {
+                        if (versionNode.getNodeName().equals("version") && !set.add(versionNode.getTextContent().trim())) {
                             versioningChild.removeChild(versionNode);
                         }
                     }
-                    if(set.add(newTag)){
+                    if (set.add(newTag)) {
                         Element version = document.createElement("version");
                         version.setTextContent(newTag);
                         versioningChild.appendChild(version);
@@ -195,7 +216,7 @@ public class ProjectProcessor{
         cons[0] = it -> {
             it.setNodeValue(it.getTextContent().trim());
             NodeList childNodes = it.getChildNodes();
-            for(int i = 0; i < childNodes.getLength(); i++){
+            for (int i = 0; i < childNodes.getLength(); i++) {
                 cons[0].get(childNodes.item(i));
             }
         };

@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.Anuken.rhino</groupId>
-  <artifactId>unzip-sources</artifactId>
+  <groupId>com.github.Anuken</groupId>
+  <artifactId>rhino</artifactId>
   <version>73a812444ac388ac2d94013b5cadc8f70b7ea027</version>
 </project>
