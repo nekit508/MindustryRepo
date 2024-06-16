@@ -1,9 +1,17 @@
 
 apply plugin: "java"
 apply plugin: updater.CheckMindustryUpdatesPlugin
+apply plugin: updater.SupportedRepoPlugin
 repositories {
     maven { url 'https://raw.githubusercontent.com/Zelaux/MindustryRepo/master/repository' }
 }
+supportedRepos {
+
+    repos = [
+            repo("Anuken", "rhino"),
+            repo("Anuken", "jabel"),
+    ]
+}
 dependencies {
-    implementation "com.github.Anuken.Arc:arc-core:v145"
+    implementation "com.github.Anuken.Arc:arc-core:v146"
 }

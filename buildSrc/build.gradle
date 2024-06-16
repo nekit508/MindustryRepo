@@ -4,6 +4,15 @@ repositories{
     mavenCentral()
     maven { url 'https://raw.githubusercontent.com/Zelaux/MindustryRepo/master/repository' }
 }
+/*
+
+supportedRepos{
+    repos = [
+            repo("Anuken", "rhino"),
+            repo("Anuken", "jabel"),
+    ]
+}
+* */
 dependencies {
     compileOnly gradleApi()
     compileOnly localGroovy()

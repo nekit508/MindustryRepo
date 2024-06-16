@@ -26,6 +26,6 @@ import java.io.StringWriter;
 public class CheckMindustryUpdatesPlugin implements Plugin<Project> {
     @Override
     public void apply(Project project) {
-        project.getTasks().create("checkUpdates", CheckMindustryUpdates.class);
+        project.getTasks().create("checkMindustryUpdates", CheckMindustryUpdates.class);
     }
 }
