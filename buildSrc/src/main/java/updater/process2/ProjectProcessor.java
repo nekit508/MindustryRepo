@@ -132,7 +132,7 @@ public class ProjectProcessor {
                 }
             }
         }
-        System.out.println("gradlew publishFolder");
+        System.out.println("gradlew2 publishFolder");
         ProcessBuilder pb;
         String taskName = "publishToMavenLocal";// "publishFolder";
         if (OS.isLinux) {

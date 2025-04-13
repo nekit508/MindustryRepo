@@ -22,6 +22,8 @@ import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
+import java.io.File;
+import java.io.FileDescriptor;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.security.NoSuchAlgorithmException;
@@ -86,9 +88,10 @@ sourceFolder.deleteDirectory();
             pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew.bat", "publishFolder", "--stacktrace");
         }
         pb.directory(sourceFolder.file());
-//        pb.inheritIO();
-        pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
-        pb.redirectOutput(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
+        pb.inheritIO();
+//        pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
+//        pb.redirectOutput(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
+//        pb.redirectOutput(new ProcessBuilder().redirectOutput());
         /*FileDescriptor.out
         new File()
         pb.redirectError(new ProcessBuilder.Redirect.to(new File()))*/
