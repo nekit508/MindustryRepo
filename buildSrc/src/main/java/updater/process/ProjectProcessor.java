@@ -145,7 +145,7 @@ sourceFolder.deleteDirectory();
                     it.copyTo(child);
                 } else {
                     try {
-                        child.writeString(add(child.readString(), tagName));
+                        if(child.exists()) child.writeString(add(child.readString(), tagName));
                     } catch (Exception e) {
                         throw new RuntimeException(e);
                     }
