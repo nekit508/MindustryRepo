@@ -89,15 +89,15 @@ sourceFolder.deleteDirectory();
             pb = new ProcessBuilder(sourceFolder.absolutePath() + "/gradlew.bat", "publishFolder", "--stacktrace");
         }
         pb.directory(sourceFolder.file());
-        pb.inheritIO();
-//        pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
-//        pb.redirectOutput(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
+//        pb.inheritIO();
+        pb.redirectError(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
+        pb.redirectOutput(ProcessBuilder.Redirect.to(Vars.sources.child("build.log").file()));
 //        pb.redirectOutput(new ProcessBuilder().redirectOutput());
         /*FileDescriptor.out
         new File()
         pb.redirectError(new ProcessBuilder.Redirect.to(new File()))*/
 //        pb.inheritIO();
-        Process p = pb.start();
+
         /*new Thread(() -> {
             byte[] buffer = new byte[1 << 13];
             while (p.isAlive()) {
@@ -120,7 +120,13 @@ sourceFolder.deleteDirectory();
                 }
             }
         }).start();*/
-        p.waitFor();
+        if(OS.isWindows){
+            System.out.println("This is test thing, you should run `gradlew publishFolder --stacktrace` manually");
+            System.in.read();
+        }else{
+            Process p = pb.start();
+            p.waitFor();
+        }
         System.out.println("Processing maven repo");
         tmpRepository.walk(it -> {
             if (!it.name().matches("core-v\\d+\\.pom")) return;

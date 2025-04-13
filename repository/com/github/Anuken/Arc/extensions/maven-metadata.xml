@@ -3,12 +3,13 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>extensions</artifactId>
     <versioning>
-        <latest>v146</latest>
-        <release>v146</release>
+        <latest>v147</latest>
+        <release>v147</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
             <version>v146</version>
+            <version>v147</version>
         </versions>
         <lastUpdated>20230810012815</lastUpdated>
     </versioning>
