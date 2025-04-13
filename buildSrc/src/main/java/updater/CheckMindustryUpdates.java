@@ -66,6 +66,8 @@ public class CheckMindustryUpdates extends DefaultTask {
             try (InputStream stream = url.openStream()) {
                 InputStreamReader reader = new InputStreamReader(stream);
                 String text = readLast(reader);
+                System.out.println("Mindustry releases")
+                System.out.println(text)
                 lastJson = Jval.read(text);
             }
         }
