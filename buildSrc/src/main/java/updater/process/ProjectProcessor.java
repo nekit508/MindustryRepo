@@ -27,6 +27,7 @@ import java.io.FileDescriptor;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.security.NoSuchAlgorithmException;
+import java.util.Arrays;
 
 public class ProjectProcessor {
     public static void process(String name, ZipFi zip, String tagName) throws IOException, InterruptedException, NoSuchAlgorithmException, SAXException {
@@ -137,6 +138,7 @@ sourceFolder.deleteDirectory();
 
         {
             String prefix = tmpRepository.absolutePath() + "/";
+            System.out.println("tmpRepository:"+Arrays.toString(tmpRepository.list()));
             tmpRepository.walk(it -> {
                 String path = it.absolutePath();
                 System.out.println(path);
