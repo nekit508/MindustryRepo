@@ -141,6 +141,7 @@ sourceFolder.deleteDirectory();
         });
         RenameLocalPom.process(tmpRepository);
 
+        System.out.prinln(Vars.sources.findAll());
 
         {
             String prefix = tmpRepository.absolutePath() + "/";
